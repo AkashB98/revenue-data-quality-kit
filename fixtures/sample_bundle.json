@@ -1,0 +1,6348 @@
+{
+  "events": [
+    {
+      "arrival_date": "2026-01-09",
+      "billed_fee_cents": 2412,
+      "charge_id": "CHG-0002",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0001"
+    },
+    {
+      "arrival_date": "2026-01-09",
+      "billed_fee_cents": 2412,
+      "charge_id": "CHG-0002",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0002"
+    },
+    {
+      "arrival_date": "2026-01-09",
+      "billed_fee_cents": 1532,
+      "charge_id": "CHG-0003",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0003"
+    },
+    {
+      "arrival_date": "2026-01-02",
+      "billed_fee_cents": 5038,
+      "charge_id": "CHG-0004",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0004"
+    },
+    {
+      "arrival_date": "2026-01-02",
+      "billed_fee_cents": 4184,
+      "charge_id": "CHG-0005",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0005"
+    },
+    {
+      "arrival_date": "2026-01-03",
+      "billed_fee_cents": 3380,
+      "charge_id": "CHG-0006",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0006"
+    },
+    {
+      "arrival_date": "2026-01-03",
+      "billed_fee_cents": 1226,
+      "charge_id": "CHG-0007",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0007"
+    },
+    {
+      "arrival_date": "2026-01-03",
+      "billed_fee_cents": 3916,
+      "charge_id": "CHG-0008",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0008"
+    },
+    {
+      "arrival_date": "2026-01-03",
+      "billed_fee_cents": 4286,
+      "charge_id": "CHG-0009",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0009"
+    },
+    {
+      "arrival_date": "2026-01-03",
+      "billed_fee_cents": 4860,
+      "charge_id": "CHG-0010",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0010"
+    },
+    {
+      "arrival_date": "2026-01-04",
+      "billed_fee_cents": 3355,
+      "charge_id": "CHG-0011",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0011"
+    },
+    {
+      "arrival_date": "2026-01-04",
+      "billed_fee_cents": 4464,
+      "charge_id": "CHG-0012",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0012"
+    },
+    {
+      "arrival_date": "2026-01-04",
+      "billed_fee_cents": 665,
+      "charge_id": "CHG-0013",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0013"
+    },
+    {
+      "arrival_date": "2026-01-04",
+      "billed_fee_cents": 3381,
+      "charge_id": "CHG-0014",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0014"
+    },
+    {
+      "arrival_date": "2026-01-04",
+      "billed_fee_cents": 1634,
+      "charge_id": "CHG-0015",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0015"
+    },
+    {
+      "arrival_date": "2026-01-05",
+      "billed_fee_cents": 2820,
+      "charge_id": "CHG-0016",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0016"
+    },
+    {
+      "arrival_date": "2026-01-05",
+      "billed_fee_cents": 3100,
+      "charge_id": "CHG-0017",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0017"
+    },
+    {
+      "arrival_date": "2026-01-05",
+      "billed_fee_cents": 2871,
+      "charge_id": "CHG-0018",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0018"
+    },
+    {
+      "arrival_date": "2026-01-05",
+      "billed_fee_cents": 907,
+      "charge_id": "CHG-0019",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0019"
+    },
+    {
+      "arrival_date": "2026-01-05",
+      "billed_fee_cents": 4120,
+      "charge_id": "CHG-0020",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0020"
+    },
+    {
+      "arrival_date": "2026-01-06",
+      "billed_fee_cents": 3087,
+      "charge_id": "CHG-0021",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0021"
+    },
+    {
+      "arrival_date": "2026-01-06",
+      "billed_fee_cents": 2539,
+      "charge_id": "CHG-0022",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0022"
+    },
+    {
+      "arrival_date": "2026-01-06",
+      "billed_fee_cents": 2985,
+      "charge_id": "CHG-0023",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0023"
+    },
+    {
+      "arrival_date": "2026-01-06",
+      "billed_fee_cents": 5217,
+      "charge_id": "CHG-0024",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0024"
+    },
+    {
+      "arrival_date": "2026-01-06",
+      "billed_fee_cents": 4936,
+      "charge_id": "CHG-0025",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0025"
+    },
+    {
+      "arrival_date": "2026-01-07",
+      "billed_fee_cents": 2514,
+      "charge_id": "CHG-0026",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0026"
+    },
+    {
+      "arrival_date": "2026-01-07",
+      "billed_fee_cents": 2144,
+      "charge_id": "CHG-0027",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0027"
+    },
+    {
+      "arrival_date": "2026-01-07",
+      "billed_fee_cents": 2437,
+      "charge_id": "CHG-0028",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0028"
+    },
+    {
+      "arrival_date": "2026-01-07",
+      "billed_fee_cents": 2998,
+      "charge_id": "CHG-0029",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0029"
+    },
+    {
+      "arrival_date": "2026-01-07",
+      "billed_fee_cents": 2934,
+      "charge_id": "CHG-0030",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0030"
+    },
+    {
+      "arrival_date": "2026-01-08",
+      "billed_fee_cents": 2361,
+      "charge_id": "CHG-0031",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0031"
+    },
+    {
+      "arrival_date": "2026-01-08",
+      "billed_fee_cents": 5076,
+      "charge_id": "CHG-0032",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0032"
+    },
+    {
+      "arrival_date": "2026-01-08",
+      "billed_fee_cents": 4592,
+      "charge_id": "CHG-0033",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0033"
+    },
+    {
+      "arrival_date": "2026-01-08",
+      "billed_fee_cents": 4107,
+      "charge_id": "CHG-0034",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0034"
+    },
+    {
+      "arrival_date": "2026-01-08",
+      "billed_fee_cents": 1685,
+      "charge_id": "CHG-0035",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0035"
+    },
+    {
+      "arrival_date": "2026-01-09",
+      "billed_fee_cents": 2386,
+      "charge_id": "CHG-0036",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0036"
+    },
+    {
+      "arrival_date": "2026-01-09",
+      "billed_fee_cents": 4260,
+      "charge_id": "CHG-0037",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0037"
+    },
+    {
+      "arrival_date": "2026-01-09",
+      "billed_fee_cents": 2743,
+      "charge_id": "CHG-0038",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0038"
+    },
+    {
+      "arrival_date": "2026-01-09",
+      "billed_fee_cents": 831,
+      "charge_id": "CHG-0039",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0039"
+    },
+    {
+      "arrival_date": "2026-01-09",
+      "billed_fee_cents": 2373,
+      "charge_id": "CHG-0040",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0040"
+    },
+    {
+      "arrival_date": "2026-01-10",
+      "billed_fee_cents": 4324,
+      "charge_id": "CHG-0041",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0041"
+    },
+    {
+      "arrival_date": "2026-01-10",
+      "billed_fee_cents": 2004,
+      "charge_id": "CHG-0042",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0042"
+    },
+    {
+      "arrival_date": "2026-01-10",
+      "billed_fee_cents": 3202,
+      "charge_id": "CHG-0043",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0043"
+    },
+    {
+      "arrival_date": "2026-01-10",
+      "billed_fee_cents": 1557,
+      "charge_id": "CHG-0044",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0044"
+    },
+    {
+      "arrival_date": "2026-01-10",
+      "billed_fee_cents": 2233,
+      "charge_id": "CHG-0045",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0045"
+    },
+    {
+      "arrival_date": "2026-01-11",
+      "billed_fee_cents": 4133,
+      "charge_id": "CHG-0046",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0046"
+    },
+    {
+      "arrival_date": "2026-01-11",
+      "billed_fee_cents": 4439,
+      "charge_id": "CHG-0047",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0047"
+    },
+    {
+      "arrival_date": "2026-01-11",
+      "billed_fee_cents": 4426,
+      "charge_id": "CHG-0048",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0048"
+    },
+    {
+      "arrival_date": "2026-01-11",
+      "billed_fee_cents": 2055,
+      "charge_id": "CHG-0049",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0049"
+    },
+    {
+      "arrival_date": "2026-01-11",
+      "billed_fee_cents": 3840,
+      "charge_id": "CHG-0050",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0050"
+    },
+    {
+      "arrival_date": "2026-01-12",
+      "billed_fee_cents": 933,
+      "charge_id": "CHG-0051",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0051"
+    },
+    {
+      "arrival_date": "2026-01-12",
+      "billed_fee_cents": 4719,
+      "charge_id": "CHG-0052",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0052"
+    },
+    {
+      "arrival_date": "2026-01-12",
+      "billed_fee_cents": 5064,
+      "charge_id": "CHG-0053",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0053"
+    },
+    {
+      "arrival_date": "2026-01-12",
+      "billed_fee_cents": 1035,
+      "charge_id": "CHG-0054",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0054"
+    },
+    {
+      "arrival_date": "2026-01-12",
+      "billed_fee_cents": 4515,
+      "charge_id": "CHG-0055",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0055"
+    },
+    {
+      "arrival_date": "2026-01-13",
+      "billed_fee_cents": 2259,
+      "charge_id": "CHG-0056",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0056"
+    },
+    {
+      "arrival_date": "2026-01-13",
+      "billed_fee_cents": 690,
+      "charge_id": "CHG-0057",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0057"
+    },
+    {
+      "arrival_date": "2026-01-13",
+      "billed_fee_cents": 1366,
+      "charge_id": "CHG-0058",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0058"
+    },
+    {
+      "arrival_date": "2026-01-13",
+      "billed_fee_cents": 4120,
+      "charge_id": "CHG-0059",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0059"
+    },
+    {
+      "arrival_date": "2026-01-13",
+      "billed_fee_cents": 4809,
+      "charge_id": "CHG-0060",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0060"
+    },
+    {
+      "arrival_date": "2026-01-14",
+      "billed_fee_cents": 2539,
+      "charge_id": "CHG-0061",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0061"
+    },
+    {
+      "arrival_date": "2026-01-14",
+      "billed_fee_cents": 3585,
+      "charge_id": "CHG-0062",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0062"
+    },
+    {
+      "arrival_date": "2026-01-14",
+      "billed_fee_cents": 5319,
+      "charge_id": "CHG-0063",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0063"
+    },
+    {
+      "arrival_date": "2026-01-14",
+      "billed_fee_cents": 5599,
+      "charge_id": "CHG-0064",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0064"
+    },
+    {
+      "arrival_date": "2026-01-14",
+      "billed_fee_cents": 1315,
+      "charge_id": "CHG-0065",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0065"
+    },
+    {
+      "arrival_date": "2026-01-15",
+      "billed_fee_cents": 1315,
+      "charge_id": "CHG-0065",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0066"
+    },
+    {
+      "arrival_date": "2026-01-15",
+      "billed_fee_cents": 4796,
+      "charge_id": "CHG-0066",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0067"
+    },
+    {
+      "arrival_date": "2026-01-15",
+      "billed_fee_cents": 1914,
+      "charge_id": "CHG-0067",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0068"
+    },
+    {
+      "arrival_date": "2026-01-15",
+      "billed_fee_cents": 5599,
+      "charge_id": "CHG-0068",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0069"
+    },
+    {
+      "arrival_date": "2026-01-15",
+      "billed_fee_cents": 4082,
+      "charge_id": "CHG-0069",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0070"
+    },
+    {
+      "arrival_date": "2026-01-15",
+      "billed_fee_cents": 2730,
+      "charge_id": "CHG-0070",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0071"
+    },
+    {
+      "arrival_date": "2026-01-16",
+      "billed_fee_cents": 1353,
+      "charge_id": "CHG-0071",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0072"
+    },
+    {
+      "arrival_date": "2026-01-16",
+      "billed_fee_cents": 2628,
+      "charge_id": "CHG-0072",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0073"
+    },
+    {
+      "arrival_date": "2026-01-16",
+      "billed_fee_cents": 2195,
+      "charge_id": "CHG-0073",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0074"
+    },
+    {
+      "arrival_date": "2026-01-16",
+      "billed_fee_cents": 1175,
+      "charge_id": "CHG-0074",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0075"
+    },
+    {
+      "arrival_date": "2026-01-16",
+      "billed_fee_cents": 1073,
+      "charge_id": "CHG-0075",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0076"
+    },
+    {
+      "arrival_date": "2026-01-17",
+      "billed_fee_cents": 1443,
+      "charge_id": "CHG-0076",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0077"
+    },
+    {
+      "arrival_date": "2026-01-17",
+      "billed_fee_cents": 3725,
+      "charge_id": "CHG-0077",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0078"
+    },
+    {
+      "arrival_date": "2026-01-17",
+      "billed_fee_cents": 2348,
+      "charge_id": "CHG-0078",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0079"
+    },
+    {
+      "arrival_date": "2026-01-17",
+      "billed_fee_cents": 4579,
+      "charge_id": "CHG-0079",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0080"
+    },
+    {
+      "arrival_date": "2026-01-17",
+      "billed_fee_cents": 4146,
+      "charge_id": "CHG-0080",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0081"
+    },
+    {
+      "arrival_date": "2026-01-18",
+      "billed_fee_cents": 1927,
+      "charge_id": "CHG-0081",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0082"
+    },
+    {
+      "arrival_date": "2026-01-18",
+      "billed_fee_cents": 3228,
+      "charge_id": "CHG-0082",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0083"
+    },
+    {
+      "arrival_date": "2026-01-18",
+      "billed_fee_cents": 3062,
+      "charge_id": "CHG-0083",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0084"
+    },
+    {
+      "arrival_date": "2026-01-18",
+      "billed_fee_cents": 3993,
+      "charge_id": "CHG-0084",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0085"
+    },
+    {
+      "arrival_date": "2026-01-18",
+      "billed_fee_cents": 2233,
+      "charge_id": "CHG-0085",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0086"
+    },
+    {
+      "arrival_date": "2026-01-19",
+      "billed_fee_cents": 2832,
+      "charge_id": "CHG-0086",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0087"
+    },
+    {
+      "arrival_date": "2026-01-19",
+      "billed_fee_cents": 4235,
+      "charge_id": "CHG-0087",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0088"
+    },
+    {
+      "arrival_date": "2026-01-19",
+      "billed_fee_cents": 2055,
+      "charge_id": "CHG-0088",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0089"
+    },
+    {
+      "arrival_date": "2026-01-19",
+      "billed_fee_cents": 5242,
+      "charge_id": "CHG-0089",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0090"
+    },
+    {
+      "arrival_date": "2026-01-19",
+      "billed_fee_cents": 2118,
+      "charge_id": "CHG-0090",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0091"
+    },
+    {
+      "arrival_date": "2026-01-20",
+      "billed_fee_cents": 3980,
+      "charge_id": "CHG-0092",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0092"
+    },
+    {
+      "arrival_date": "2026-01-20",
+      "billed_fee_cents": 4987,
+      "charge_id": "CHG-0093",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0093"
+    },
+    {
+      "arrival_date": "2026-01-20",
+      "billed_fee_cents": 4146,
+      "charge_id": "CHG-0094",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0094"
+    },
+    {
+      "arrival_date": "2026-01-20",
+      "billed_fee_cents": 4350,
+      "charge_id": "CHG-0095",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0095"
+    },
+    {
+      "arrival_date": "2026-01-21",
+      "billed_fee_cents": 2208,
+      "charge_id": "CHG-0096",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0096"
+    },
+    {
+      "arrival_date": "2026-01-21",
+      "billed_fee_cents": 3279,
+      "charge_id": "CHG-0097",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0097"
+    },
+    {
+      "arrival_date": "2026-01-21",
+      "billed_fee_cents": 1251,
+      "charge_id": "CHG-0098",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0098"
+    },
+    {
+      "arrival_date": "2026-01-21",
+      "billed_fee_cents": 2934,
+      "charge_id": "CHG-0099",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0099"
+    },
+    {
+      "arrival_date": "2026-01-21",
+      "billed_fee_cents": 3674,
+      "charge_id": "CHG-0100",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0100"
+    },
+    {
+      "arrival_date": "2026-01-22",
+      "billed_fee_cents": 5013,
+      "charge_id": "CHG-0101",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0101"
+    },
+    {
+      "arrival_date": "2026-01-22",
+      "billed_fee_cents": 1264,
+      "charge_id": "CHG-0102",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0102"
+    },
+    {
+      "arrival_date": "2026-01-22",
+      "billed_fee_cents": 5370,
+      "charge_id": "CHG-0103",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0103"
+    },
+    {
+      "arrival_date": "2026-01-22",
+      "billed_fee_cents": 1328,
+      "charge_id": "CHG-0104",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0104"
+    },
+    {
+      "arrival_date": "2026-01-22",
+      "billed_fee_cents": 1863,
+      "charge_id": "CHG-0105",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0105"
+    },
+    {
+      "arrival_date": "2026-01-23",
+      "billed_fee_cents": 1532,
+      "charge_id": "CHG-0106",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0106"
+    },
+    {
+      "arrival_date": "2026-01-23",
+      "billed_fee_cents": 2437,
+      "charge_id": "CHG-0107",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0107"
+    },
+    {
+      "arrival_date": "2026-01-23",
+      "billed_fee_cents": 1111,
+      "charge_id": "CHG-0108",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0108"
+    },
+    {
+      "arrival_date": "2026-01-23",
+      "billed_fee_cents": 4209,
+      "charge_id": "CHG-0109",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0109"
+    },
+    {
+      "arrival_date": "2026-01-23",
+      "billed_fee_cents": 4872,
+      "charge_id": "CHG-0110",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0110"
+    },
+    {
+      "arrival_date": "2026-01-24",
+      "billed_fee_cents": 716,
+      "charge_id": "CHG-0111",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0111"
+    },
+    {
+      "arrival_date": "2026-01-24",
+      "billed_fee_cents": 5535,
+      "charge_id": "CHG-0112",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0112"
+    },
+    {
+      "arrival_date": "2026-01-24",
+      "billed_fee_cents": 3279,
+      "charge_id": "CHG-0113",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0113"
+    },
+    {
+      "arrival_date": "2026-01-31",
+      "billed_fee_cents": 2016,
+      "charge_id": "CHG-0114",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0114"
+    },
+    {
+      "arrival_date": "2026-01-24",
+      "billed_fee_cents": 1009,
+      "charge_id": "CHG-0115",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0115"
+    },
+    {
+      "arrival_date": "2026-01-25",
+      "billed_fee_cents": 639,
+      "charge_id": "CHG-0116",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0116"
+    },
+    {
+      "arrival_date": "2026-01-25",
+      "billed_fee_cents": 3585,
+      "charge_id": "CHG-0117",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0117"
+    },
+    {
+      "arrival_date": "2026-01-25",
+      "billed_fee_cents": 5166,
+      "charge_id": "CHG-0118",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0118"
+    },
+    {
+      "arrival_date": "2026-01-25",
+      "billed_fee_cents": 4248,
+      "charge_id": "CHG-0119",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0119"
+    },
+    {
+      "arrival_date": "2026-01-25",
+      "billed_fee_cents": 3801,
+      "charge_id": "CHG-0120",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0120"
+    },
+    {
+      "arrival_date": "2026-01-26",
+      "billed_fee_cents": 2552,
+      "charge_id": "CHG-0121",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0121"
+    },
+    {
+      "arrival_date": "2026-01-26",
+      "billed_fee_cents": 4401,
+      "charge_id": "CHG-0122",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0122"
+    },
+    {
+      "arrival_date": "2026-01-26",
+      "billed_fee_cents": 1022,
+      "charge_id": "CHG-0123",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0123"
+    },
+    {
+      "arrival_date": "2026-01-26",
+      "billed_fee_cents": 996,
+      "charge_id": "CHG-0124",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0124"
+    },
+    {
+      "arrival_date": "2026-01-26",
+      "billed_fee_cents": 3738,
+      "charge_id": "CHG-0125",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0125"
+    },
+    {
+      "arrival_date": "2026-01-27",
+      "billed_fee_cents": 4082,
+      "charge_id": "CHG-0126",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0126"
+    },
+    {
+      "arrival_date": "2026-01-27",
+      "billed_fee_cents": 3942,
+      "charge_id": "CHG-0127",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0127"
+    },
+    {
+      "arrival_date": "2026-01-27",
+      "billed_fee_cents": 1838,
+      "charge_id": "CHG-0128",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0128"
+    },
+    {
+      "arrival_date": "2026-01-27",
+      "billed_fee_cents": 1060,
+      "charge_id": "CHG-0129",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0129"
+    },
+    {
+      "arrival_date": "2026-01-27",
+      "billed_fee_cents": 2157,
+      "charge_id": "CHG-0130",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0130"
+    },
+    {
+      "arrival_date": "2026-01-28",
+      "billed_fee_cents": 2157,
+      "charge_id": "CHG-0130",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0131"
+    },
+    {
+      "arrival_date": "2026-01-28",
+      "billed_fee_cents": 4337,
+      "charge_id": "CHG-0131",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0132"
+    },
+    {
+      "arrival_date": "2026-01-28",
+      "billed_fee_cents": 4503,
+      "charge_id": "CHG-0132",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0133"
+    },
+    {
+      "arrival_date": "2026-01-28",
+      "billed_fee_cents": 1149,
+      "charge_id": "CHG-0133",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0134"
+    },
+    {
+      "arrival_date": "2026-01-28",
+      "billed_fee_cents": 4426,
+      "charge_id": "CHG-0134",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0135"
+    },
+    {
+      "arrival_date": "2026-01-28",
+      "billed_fee_cents": 2679,
+      "charge_id": "CHG-0135",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0136"
+    },
+    {
+      "arrival_date": "2026-01-29",
+      "billed_fee_cents": 4987,
+      "charge_id": "CHG-0136",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0137"
+    },
+    {
+      "arrival_date": "2026-01-29",
+      "billed_fee_cents": 2182,
+      "charge_id": "CHG-0137",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0138"
+    },
+    {
+      "arrival_date": "2026-01-29",
+      "billed_fee_cents": 1481,
+      "charge_id": "CHG-0138",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0139"
+    },
+    {
+      "arrival_date": "2026-01-29",
+      "billed_fee_cents": 2577,
+      "charge_id": "CHG-0139",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0140"
+    },
+    {
+      "arrival_date": "2026-01-29",
+      "billed_fee_cents": 5523,
+      "charge_id": "CHG-0140",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0141"
+    },
+    {
+      "arrival_date": "2026-01-30",
+      "billed_fee_cents": 3610,
+      "charge_id": "CHG-0141",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0142"
+    },
+    {
+      "arrival_date": "2026-01-30",
+      "billed_fee_cents": 1277,
+      "charge_id": "CHG-0142",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0143"
+    },
+    {
+      "arrival_date": "2026-01-30",
+      "billed_fee_cents": 2016,
+      "charge_id": "CHG-0143",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0144"
+    },
+    {
+      "arrival_date": "2026-01-30",
+      "billed_fee_cents": 1481,
+      "charge_id": "CHG-0144",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0145"
+    },
+    {
+      "arrival_date": "2026-01-30",
+      "billed_fee_cents": 1073,
+      "charge_id": "CHG-0145",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0146"
+    },
+    {
+      "arrival_date": "2026-01-31",
+      "billed_fee_cents": 2475,
+      "charge_id": "CHG-0146",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0147"
+    },
+    {
+      "arrival_date": "2026-01-31",
+      "billed_fee_cents": 4171,
+      "charge_id": "CHG-0147",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0148"
+    },
+    {
+      "arrival_date": "2026-01-31",
+      "billed_fee_cents": 4617,
+      "charge_id": "CHG-0148",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0149"
+    },
+    {
+      "arrival_date": "2026-01-31",
+      "billed_fee_cents": 678,
+      "charge_id": "CHG-0149",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0150"
+    },
+    {
+      "arrival_date": "2026-01-31",
+      "billed_fee_cents": 4235,
+      "charge_id": "CHG-0150",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0151"
+    },
+    {
+      "arrival_date": "2026-02-01",
+      "billed_fee_cents": 4949,
+      "charge_id": "CHG-0151",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0152"
+    },
+    {
+      "arrival_date": "2026-02-01",
+      "billed_fee_cents": 1494,
+      "charge_id": "CHG-0152",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0153"
+    },
+    {
+      "arrival_date": "2026-02-01",
+      "billed_fee_cents": 1315,
+      "charge_id": "CHG-0153",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0154"
+    },
+    {
+      "arrival_date": "2026-02-01",
+      "billed_fee_cents": 1634,
+      "charge_id": "CHG-0154",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0155"
+    },
+    {
+      "arrival_date": "2026-02-01",
+      "billed_fee_cents": 4566,
+      "charge_id": "CHG-0155",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0156"
+    },
+    {
+      "arrival_date": "2026-02-02",
+      "billed_fee_cents": 2858,
+      "charge_id": "CHG-0156",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0157"
+    },
+    {
+      "arrival_date": "2026-02-02",
+      "billed_fee_cents": 4758,
+      "charge_id": "CHG-0157",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0158"
+    },
+    {
+      "arrival_date": "2026-02-02",
+      "billed_fee_cents": 3814,
+      "charge_id": "CHG-0158",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0159"
+    },
+    {
+      "arrival_date": "2026-02-02",
+      "billed_fee_cents": 958,
+      "charge_id": "CHG-0159",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0160"
+    },
+    {
+      "arrival_date": "2026-02-02",
+      "billed_fee_cents": 3381,
+      "charge_id": "CHG-0160",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0161"
+    },
+    {
+      "arrival_date": "2026-02-03",
+      "billed_fee_cents": 639,
+      "charge_id": "CHG-0161",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0162"
+    },
+    {
+      "arrival_date": "2026-02-03",
+      "billed_fee_cents": 1468,
+      "charge_id": "CHG-0162",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0163"
+    },
+    {
+      "arrival_date": "2026-02-03",
+      "billed_fee_cents": 1672,
+      "charge_id": "CHG-0163",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0164"
+    },
+    {
+      "arrival_date": "2026-02-03",
+      "billed_fee_cents": 4222,
+      "charge_id": "CHG-0164",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0165"
+    },
+    {
+      "arrival_date": "2026-02-03",
+      "billed_fee_cents": 4286,
+      "charge_id": "CHG-0165",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0166"
+    },
+    {
+      "arrival_date": "2026-02-04",
+      "billed_fee_cents": 1111,
+      "charge_id": "CHG-0166",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0167"
+    },
+    {
+      "arrival_date": "2026-02-04",
+      "billed_fee_cents": 1596,
+      "charge_id": "CHG-0167",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0168"
+    },
+    {
+      "arrival_date": "2026-02-04",
+      "billed_fee_cents": 3036,
+      "charge_id": "CHG-0168",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0169"
+    },
+    {
+      "arrival_date": "2026-02-04",
+      "billed_fee_cents": 1583,
+      "charge_id": "CHG-0169",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0170"
+    },
+    {
+      "arrival_date": "2026-02-04",
+      "billed_fee_cents": 894,
+      "charge_id": "CHG-0170",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0171"
+    },
+    {
+      "arrival_date": "2026-02-05",
+      "billed_fee_cents": 882,
+      "charge_id": "CHG-0171",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0172"
+    },
+    {
+      "arrival_date": "2026-02-05",
+      "billed_fee_cents": 5076,
+      "charge_id": "CHG-0172",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0173"
+    },
+    {
+      "arrival_date": "2026-02-05",
+      "billed_fee_cents": 1290,
+      "charge_id": "CHG-0173",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0174"
+    },
+    {
+      "arrival_date": "2026-02-05",
+      "billed_fee_cents": 4273,
+      "charge_id": "CHG-0174",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0175"
+    },
+    {
+      "arrival_date": "2026-02-05",
+      "billed_fee_cents": 5510,
+      "charge_id": "CHG-0175",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0176"
+    },
+    {
+      "arrival_date": "2026-02-06",
+      "billed_fee_cents": 2169,
+      "charge_id": "CHG-0176",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0177"
+    },
+    {
+      "arrival_date": "2026-02-06",
+      "billed_fee_cents": 1774,
+      "charge_id": "CHG-0177",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0178"
+    },
+    {
+      "arrival_date": "2026-02-06",
+      "billed_fee_cents": 1787,
+      "charge_id": "CHG-0178",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0179"
+    },
+    {
+      "arrival_date": "2026-02-06",
+      "billed_fee_cents": 2794,
+      "charge_id": "CHG-0179",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0180"
+    },
+    {
+      "arrival_date": "2026-02-06",
+      "billed_fee_cents": 4987,
+      "charge_id": "CHG-0180",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0181"
+    },
+    {
+      "arrival_date": "2026-02-07",
+      "billed_fee_cents": 5204,
+      "charge_id": "CHG-0182",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0182"
+    },
+    {
+      "arrival_date": "2026-02-07",
+      "billed_fee_cents": 869,
+      "charge_id": "CHG-0183",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0183"
+    },
+    {
+      "arrival_date": "2026-02-07",
+      "billed_fee_cents": 1927,
+      "charge_id": "CHG-0184",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0184"
+    },
+    {
+      "arrival_date": "2026-02-07",
+      "billed_fee_cents": 2616,
+      "charge_id": "CHG-0185",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0185"
+    },
+    {
+      "arrival_date": "2026-02-08",
+      "billed_fee_cents": 780,
+      "charge_id": "CHG-0186",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0186"
+    },
+    {
+      "arrival_date": "2026-02-08",
+      "billed_fee_cents": 3228,
+      "charge_id": "CHG-0187",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0187"
+    },
+    {
+      "arrival_date": "2026-02-08",
+      "billed_fee_cents": 1073,
+      "charge_id": "CHG-0188",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0188"
+    },
+    {
+      "arrival_date": "2026-02-08",
+      "billed_fee_cents": 4809,
+      "charge_id": "CHG-0189",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0189"
+    },
+    {
+      "arrival_date": "2026-02-08",
+      "billed_fee_cents": 5051,
+      "charge_id": "CHG-0190",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0190"
+    },
+    {
+      "arrival_date": "2026-02-09",
+      "billed_fee_cents": 805,
+      "charge_id": "CHG-0191",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0191"
+    },
+    {
+      "arrival_date": "2026-02-09",
+      "billed_fee_cents": 2322,
+      "charge_id": "CHG-0192",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0192"
+    },
+    {
+      "arrival_date": "2026-02-09",
+      "billed_fee_cents": 2348,
+      "charge_id": "CHG-0193",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0193"
+    },
+    {
+      "arrival_date": "2026-02-09",
+      "billed_fee_cents": 4515,
+      "charge_id": "CHG-0194",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0194"
+    },
+    {
+      "arrival_date": "2026-02-10",
+      "billed_fee_cents": 4515,
+      "charge_id": "CHG-0194",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0195"
+    },
+    {
+      "arrival_date": "2026-02-09",
+      "billed_fee_cents": 5382,
+      "charge_id": "CHG-0195",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0196"
+    },
+    {
+      "arrival_date": "2026-02-10",
+      "billed_fee_cents": 4579,
+      "charge_id": "CHG-0196",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0197"
+    },
+    {
+      "arrival_date": "2026-02-10",
+      "billed_fee_cents": 3138,
+      "charge_id": "CHG-0197",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0198"
+    },
+    {
+      "arrival_date": "2026-02-10",
+      "billed_fee_cents": 2284,
+      "charge_id": "CHG-0198",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0199"
+    },
+    {
+      "arrival_date": "2026-02-10",
+      "billed_fee_cents": 3470,
+      "charge_id": "CHG-0199",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0200"
+    },
+    {
+      "arrival_date": "2026-02-10",
+      "billed_fee_cents": 4133,
+      "charge_id": "CHG-0200",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0201"
+    },
+    {
+      "arrival_date": "2026-02-11",
+      "billed_fee_cents": 5459,
+      "charge_id": "CHG-0201",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0202"
+    },
+    {
+      "arrival_date": "2026-02-11",
+      "billed_fee_cents": 1902,
+      "charge_id": "CHG-0202",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0203"
+    },
+    {
+      "arrival_date": "2026-02-11",
+      "billed_fee_cents": 1073,
+      "charge_id": "CHG-0203",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0204"
+    },
+    {
+      "arrival_date": "2026-02-11",
+      "billed_fee_cents": 2781,
+      "charge_id": "CHG-0204",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0205"
+    },
+    {
+      "arrival_date": "2026-02-11",
+      "billed_fee_cents": 4949,
+      "charge_id": "CHG-0205",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0206"
+    },
+    {
+      "arrival_date": "2026-02-12",
+      "billed_fee_cents": 2577,
+      "charge_id": "CHG-0206",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0207"
+    },
+    {
+      "arrival_date": "2026-02-12",
+      "billed_fee_cents": 4974,
+      "charge_id": "CHG-0207",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0208"
+    },
+    {
+      "arrival_date": "2026-02-12",
+      "billed_fee_cents": 3253,
+      "charge_id": "CHG-0208",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0209"
+    },
+    {
+      "arrival_date": "2026-02-12",
+      "billed_fee_cents": 4235,
+      "charge_id": "CHG-0209",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0210"
+    },
+    {
+      "arrival_date": "2026-02-12",
+      "billed_fee_cents": 3368,
+      "charge_id": "CHG-0210",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0211"
+    },
+    {
+      "arrival_date": "2026-02-13",
+      "billed_fee_cents": 5038,
+      "charge_id": "CHG-0211",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0212"
+    },
+    {
+      "arrival_date": "2026-02-13",
+      "billed_fee_cents": 1761,
+      "charge_id": "CHG-0212",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0213"
+    },
+    {
+      "arrival_date": "2026-02-13",
+      "billed_fee_cents": 2590,
+      "charge_id": "CHG-0213",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0214"
+    },
+    {
+      "arrival_date": "2026-02-13",
+      "billed_fee_cents": 627,
+      "charge_id": "CHG-0214",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0215"
+    },
+    {
+      "arrival_date": "2026-02-13",
+      "billed_fee_cents": 1991,
+      "charge_id": "CHG-0215",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0216"
+    },
+    {
+      "arrival_date": "2026-02-14",
+      "billed_fee_cents": 4401,
+      "charge_id": "CHG-0216",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0217"
+    },
+    {
+      "arrival_date": "2026-02-14",
+      "billed_fee_cents": 2718,
+      "charge_id": "CHG-0217",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0218"
+    },
+    {
+      "arrival_date": "2026-02-14",
+      "billed_fee_cents": 3508,
+      "charge_id": "CHG-0218",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0219"
+    },
+    {
+      "arrival_date": "2026-02-14",
+      "billed_fee_cents": 3954,
+      "charge_id": "CHG-0219",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0220"
+    },
+    {
+      "arrival_date": "2026-02-14",
+      "billed_fee_cents": 5421,
+      "charge_id": "CHG-0220",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0221"
+    },
+    {
+      "arrival_date": "2026-02-15",
+      "billed_fee_cents": 1175,
+      "charge_id": "CHG-0221",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0222"
+    },
+    {
+      "arrival_date": "2026-02-15",
+      "billed_fee_cents": 4949,
+      "charge_id": "CHG-0222",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0223"
+    },
+    {
+      "arrival_date": "2026-02-15",
+      "billed_fee_cents": 2807,
+      "charge_id": "CHG-0223",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0224"
+    },
+    {
+      "arrival_date": "2026-02-15",
+      "billed_fee_cents": 5523,
+      "charge_id": "CHG-0224",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0225"
+    },
+    {
+      "arrival_date": "2026-02-15",
+      "billed_fee_cents": 2641,
+      "charge_id": "CHG-0225",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0226"
+    },
+    {
+      "arrival_date": "2026-02-23",
+      "billed_fee_cents": 2186,
+      "charge_id": "CHG-0226",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0227"
+    },
+    {
+      "arrival_date": "2026-02-16",
+      "billed_fee_cents": 920,
+      "charge_id": "CHG-0227",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0228"
+    },
+    {
+      "arrival_date": "2026-02-16",
+      "billed_fee_cents": 5298,
+      "charge_id": "CHG-0228",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0229"
+    },
+    {
+      "arrival_date": "2026-02-16",
+      "billed_fee_cents": 3824,
+      "charge_id": "CHG-0229",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0230"
+    },
+    {
+      "arrival_date": "2026-02-16",
+      "billed_fee_cents": 2157,
+      "charge_id": "CHG-0230",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0231"
+    },
+    {
+      "arrival_date": "2026-02-17",
+      "billed_fee_cents": 3588,
+      "charge_id": "CHG-0231",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0232"
+    },
+    {
+      "arrival_date": "2026-02-17",
+      "billed_fee_cents": 2526,
+      "charge_id": "CHG-0232",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0233"
+    },
+    {
+      "arrival_date": "2026-02-17",
+      "billed_fee_cents": 5889,
+      "charge_id": "CHG-0233",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0234"
+    },
+    {
+      "arrival_date": "2026-02-17",
+      "billed_fee_cents": 6361,
+      "charge_id": "CHG-0234",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0235"
+    },
+    {
+      "arrival_date": "2026-02-17",
+      "billed_fee_cents": 3897,
+      "charge_id": "CHG-0235",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0236"
+    },
+    {
+      "arrival_date": "2026-02-18",
+      "billed_fee_cents": 5948,
+      "charge_id": "CHG-0236",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0237"
+    },
+    {
+      "arrival_date": "2026-02-18",
+      "billed_fee_cents": 1065,
+      "charge_id": "CHG-0237",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0238"
+    },
+    {
+      "arrival_date": "2026-02-18",
+      "billed_fee_cents": 1611,
+      "charge_id": "CHG-0238",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0239"
+    },
+    {
+      "arrival_date": "2026-02-18",
+      "billed_fee_cents": 4192,
+      "charge_id": "CHG-0239",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0240"
+    },
+    {
+      "arrival_date": "2026-02-18",
+      "billed_fee_cents": 4915,
+      "charge_id": "CHG-0240",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0241"
+    },
+    {
+      "arrival_date": "2026-02-19",
+      "billed_fee_cents": 6390,
+      "charge_id": "CHG-0241",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0242"
+    },
+    {
+      "arrival_date": "2026-02-19",
+      "billed_fee_cents": 6125,
+      "charge_id": "CHG-0242",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0243"
+    },
+    {
+      "arrival_date": "2026-02-19",
+      "billed_fee_cents": 4827,
+      "charge_id": "CHG-0243",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0244"
+    },
+    {
+      "arrival_date": "2026-02-19",
+      "billed_fee_cents": 1891,
+      "charge_id": "CHG-0244",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0245"
+    },
+    {
+      "arrival_date": "2026-02-19",
+      "billed_fee_cents": 4281,
+      "charge_id": "CHG-0245",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0246"
+    },
+    {
+      "arrival_date": "2026-02-20",
+      "billed_fee_cents": 5523,
+      "charge_id": "CHG-0246",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0247"
+    },
+    {
+      "arrival_date": "2026-02-20",
+      "billed_fee_cents": 5505,
+      "charge_id": "CHG-0247",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0248"
+    },
+    {
+      "arrival_date": "2026-02-20",
+      "billed_fee_cents": 4620,
+      "charge_id": "CHG-0248",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0249"
+    },
+    {
+      "arrival_date": "2026-02-20",
+      "billed_fee_cents": 2496,
+      "charge_id": "CHG-0249",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0250"
+    },
+    {
+      "arrival_date": "2026-02-20",
+      "billed_fee_cents": 1272,
+      "charge_id": "CHG-0250",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0251"
+    },
+    {
+      "arrival_date": "2026-02-21",
+      "billed_fee_cents": 2467,
+      "charge_id": "CHG-0251",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0252"
+    },
+    {
+      "arrival_date": "2026-02-21",
+      "billed_fee_cents": 3101,
+      "charge_id": "CHG-0252",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0253"
+    },
+    {
+      "arrival_date": "2026-02-21",
+      "billed_fee_cents": 1729,
+      "charge_id": "CHG-0253",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0254"
+    },
+    {
+      "arrival_date": "2026-02-21",
+      "billed_fee_cents": 3588,
+      "charge_id": "CHG-0254",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0255"
+    },
+    {
+      "arrival_date": "2026-02-21",
+      "billed_fee_cents": 6021,
+      "charge_id": "CHG-0255",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0256"
+    },
+    {
+      "arrival_date": "2026-02-22",
+      "billed_fee_cents": 3824,
+      "charge_id": "CHG-0256",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0257"
+    },
+    {
+      "arrival_date": "2026-02-22",
+      "billed_fee_cents": 4782,
+      "charge_id": "CHG-0257",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0258"
+    },
+    {
+      "arrival_date": "2026-02-23",
+      "billed_fee_cents": 4782,
+      "charge_id": "CHG-0257",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0259"
+    },
+    {
+      "arrival_date": "2026-02-22",
+      "billed_fee_cents": 1154,
+      "charge_id": "CHG-0258",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0260"
+    },
+    {
+      "arrival_date": "2026-02-22",
+      "billed_fee_cents": 3868,
+      "charge_id": "CHG-0259",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0261"
+    },
+    {
+      "arrival_date": "2026-02-22",
+      "billed_fee_cents": 5107,
+      "charge_id": "CHG-0260",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0262"
+    },
+    {
+      "arrival_date": "2026-02-23",
+      "billed_fee_cents": 5033,
+      "charge_id": "CHG-0261",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0263"
+    },
+    {
+      "arrival_date": "2026-02-23",
+      "billed_fee_cents": 741,
+      "charge_id": "CHG-0262",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0264"
+    },
+    {
+      "arrival_date": "2026-02-23",
+      "billed_fee_cents": 6375,
+      "charge_id": "CHG-0263",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0265"
+    },
+    {
+      "arrival_date": "2026-02-23",
+      "billed_fee_cents": 3853,
+      "charge_id": "CHG-0264",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0266"
+    },
+    {
+      "arrival_date": "2026-02-23",
+      "billed_fee_cents": 6243,
+      "charge_id": "CHG-0265",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0267"
+    },
+    {
+      "arrival_date": "2026-02-24",
+      "billed_fee_cents": 5240,
+      "charge_id": "CHG-0266",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0268"
+    },
+    {
+      "arrival_date": "2026-02-24",
+      "billed_fee_cents": 2055,
+      "charge_id": "CHG-0267",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0269"
+    },
+    {
+      "arrival_date": "2026-02-24",
+      "billed_fee_cents": 4355,
+      "charge_id": "CHG-0268",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0270"
+    },
+    {
+      "arrival_date": "2026-02-24",
+      "billed_fee_cents": 3234,
+      "charge_id": "CHG-0269",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0271"
+    },
+    {
+      "arrival_date": "2026-02-25",
+      "billed_fee_cents": 4222,
+      "charge_id": "CHG-0271",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0272"
+    },
+    {
+      "arrival_date": "2026-02-25",
+      "billed_fee_cents": 4723,
+      "charge_id": "CHG-0272",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0273"
+    },
+    {
+      "arrival_date": "2026-02-25",
+      "billed_fee_cents": 3661,
+      "charge_id": "CHG-0273",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0274"
+    },
+    {
+      "arrival_date": "2026-02-25",
+      "billed_fee_cents": 5697,
+      "charge_id": "CHG-0274",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0275"
+    },
+    {
+      "arrival_date": "2026-02-25",
+      "billed_fee_cents": 5549,
+      "charge_id": "CHG-0275",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0276"
+    },
+    {
+      "arrival_date": "2026-02-26",
+      "billed_fee_cents": 4178,
+      "charge_id": "CHG-0276",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0277"
+    },
+    {
+      "arrival_date": "2026-02-26",
+      "billed_fee_cents": 2658,
+      "charge_id": "CHG-0277",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0278"
+    },
+    {
+      "arrival_date": "2026-02-26",
+      "billed_fee_cents": 2290,
+      "charge_id": "CHG-0278",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0279"
+    },
+    {
+      "arrival_date": "2026-02-26",
+      "billed_fee_cents": 3234,
+      "charge_id": "CHG-0279",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0280"
+    },
+    {
+      "arrival_date": "2026-02-26",
+      "billed_fee_cents": 6375,
+      "charge_id": "CHG-0280",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0281"
+    },
+    {
+      "arrival_date": "2026-02-27",
+      "billed_fee_cents": 1301,
+      "charge_id": "CHG-0281",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0282"
+    },
+    {
+      "arrival_date": "2026-02-27",
+      "billed_fee_cents": 6346,
+      "charge_id": "CHG-0282",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0283"
+    },
+    {
+      "arrival_date": "2026-02-27",
+      "billed_fee_cents": 3337,
+      "charge_id": "CHG-0283",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0284"
+    },
+    {
+      "arrival_date": "2026-02-27",
+      "billed_fee_cents": 1213,
+      "charge_id": "CHG-0284",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0285"
+    },
+    {
+      "arrival_date": "2026-02-27",
+      "billed_fee_cents": 6390,
+      "charge_id": "CHG-0285",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0286"
+    },
+    {
+      "arrival_date": "2026-02-28",
+      "billed_fee_cents": 2201,
+      "charge_id": "CHG-0286",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0287"
+    },
+    {
+      "arrival_date": "2026-02-28",
+      "billed_fee_cents": 1621,
+      "charge_id": "CHG-0287",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0288"
+    },
+    {
+      "arrival_date": "2026-02-28",
+      "billed_fee_cents": 4266,
+      "charge_id": "CHG-0288",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0289"
+    },
+    {
+      "arrival_date": "2026-02-28",
+      "billed_fee_cents": 4945,
+      "charge_id": "CHG-0289",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0290"
+    },
+    {
+      "arrival_date": "2026-02-28",
+      "billed_fee_cents": 5977,
+      "charge_id": "CHG-0290",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0291"
+    },
+    {
+      "arrival_date": "2026-03-01",
+      "billed_fee_cents": 3470,
+      "charge_id": "CHG-0291",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0292"
+    },
+    {
+      "arrival_date": "2026-03-01",
+      "billed_fee_cents": 5269,
+      "charge_id": "CHG-0292",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0293"
+    },
+    {
+      "arrival_date": "2026-03-01",
+      "billed_fee_cents": 1552,
+      "charge_id": "CHG-0293",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0294"
+    },
+    {
+      "arrival_date": "2026-03-01",
+      "billed_fee_cents": 1508,
+      "charge_id": "CHG-0294",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0295"
+    },
+    {
+      "arrival_date": "2026-03-01",
+      "billed_fee_cents": 3042,
+      "charge_id": "CHG-0295",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0296"
+    },
+    {
+      "arrival_date": "2026-03-02",
+      "billed_fee_cents": 3529,
+      "charge_id": "CHG-0296",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0297"
+    },
+    {
+      "arrival_date": "2026-03-02",
+      "billed_fee_cents": 2186,
+      "charge_id": "CHG-0297",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0298"
+    },
+    {
+      "arrival_date": "2026-03-02",
+      "billed_fee_cents": 5903,
+      "charge_id": "CHG-0298",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0299"
+    },
+    {
+      "arrival_date": "2026-03-02",
+      "billed_fee_cents": 1464,
+      "charge_id": "CHG-0299",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0300"
+    },
+    {
+      "arrival_date": "2026-03-02",
+      "billed_fee_cents": 2968,
+      "charge_id": "CHG-0300",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0301"
+    },
+    {
+      "arrival_date": "2026-03-03",
+      "billed_fee_cents": 1596,
+      "charge_id": "CHG-0301",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0302"
+    },
+    {
+      "arrival_date": "2026-03-03",
+      "billed_fee_cents": 1006,
+      "charge_id": "CHG-0302",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0303"
+    },
+    {
+      "arrival_date": "2026-03-03",
+      "billed_fee_cents": 3927,
+      "charge_id": "CHG-0303",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0304"
+    },
+    {
+      "arrival_date": "2026-03-03",
+      "billed_fee_cents": 1213,
+      "charge_id": "CHG-0304",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0305"
+    },
+    {
+      "arrival_date": "2026-03-03",
+      "billed_fee_cents": 3263,
+      "charge_id": "CHG-0305",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0306"
+    },
+    {
+      "arrival_date": "2026-03-04",
+      "billed_fee_cents": 3868,
+      "charge_id": "CHG-0306",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0307"
+    },
+    {
+      "arrival_date": "2026-03-04",
+      "billed_fee_cents": 3444,
+      "charge_id": "CHG-0307",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0308"
+    },
+    {
+      "arrival_date": "2026-03-04",
+      "billed_fee_cents": 4163,
+      "charge_id": "CHG-0308",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0309"
+    },
+    {
+      "arrival_date": "2026-03-04",
+      "billed_fee_cents": 3971,
+      "charge_id": "CHG-0309",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0310"
+    },
+    {
+      "arrival_date": "2026-03-04",
+      "billed_fee_cents": 4635,
+      "charge_id": "CHG-0310",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0311"
+    },
+    {
+      "arrival_date": "2026-03-05",
+      "billed_fee_cents": 5343,
+      "charge_id": "CHG-0311",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0312"
+    },
+    {
+      "arrival_date": "2026-03-05",
+      "billed_fee_cents": 4340,
+      "charge_id": "CHG-0312",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0313"
+    },
+    {
+      "arrival_date": "2026-03-05",
+      "billed_fee_cents": 6213,
+      "charge_id": "CHG-0313",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0314"
+    },
+    {
+      "arrival_date": "2026-03-05",
+      "billed_fee_cents": 3130,
+      "charge_id": "CHG-0314",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0315"
+    },
+    {
+      "arrival_date": "2026-03-05",
+      "billed_fee_cents": 1346,
+      "charge_id": "CHG-0315",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0316"
+    },
+    {
+      "arrival_date": "2026-03-06",
+      "billed_fee_cents": 4089,
+      "charge_id": "CHG-0316",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0317"
+    },
+    {
+      "arrival_date": "2026-03-06",
+      "billed_fee_cents": 4192,
+      "charge_id": "CHG-0317",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0318"
+    },
+    {
+      "arrival_date": "2026-03-06",
+      "billed_fee_cents": 5741,
+      "charge_id": "CHG-0318",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0319"
+    },
+    {
+      "arrival_date": "2026-03-06",
+      "billed_fee_cents": 903,
+      "charge_id": "CHG-0319",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0320"
+    },
+    {
+      "arrival_date": "2026-03-06",
+      "billed_fee_cents": 3145,
+      "charge_id": "CHG-0320",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0321"
+    },
+    {
+      "arrival_date": "2026-03-07",
+      "billed_fee_cents": 2290,
+      "charge_id": "CHG-0321",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0322"
+    },
+    {
+      "arrival_date": "2026-03-08",
+      "billed_fee_cents": 2290,
+      "charge_id": "CHG-0321",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0323"
+    },
+    {
+      "arrival_date": "2026-03-07",
+      "billed_fee_cents": 2644,
+      "charge_id": "CHG-0322",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0324"
+    },
+    {
+      "arrival_date": "2026-03-07",
+      "billed_fee_cents": 5195,
+      "charge_id": "CHG-0323",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0325"
+    },
+    {
+      "arrival_date": "2026-03-07",
+      "billed_fee_cents": 2776,
+      "charge_id": "CHG-0324",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0326"
+    },
+    {
+      "arrival_date": "2026-03-07",
+      "billed_fee_cents": 4591,
+      "charge_id": "CHG-0325",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0327"
+    },
+    {
+      "arrival_date": "2026-03-08",
+      "billed_fee_cents": 2511,
+      "charge_id": "CHG-0326",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0328"
+    },
+    {
+      "arrival_date": "2026-03-08",
+      "billed_fee_cents": 3814,
+      "charge_id": "CHG-0327",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0329"
+    },
+    {
+      "arrival_date": "2026-03-08",
+      "billed_fee_cents": 2511,
+      "charge_id": "CHG-0328",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0330"
+    },
+    {
+      "arrival_date": "2026-03-08",
+      "billed_fee_cents": 5564,
+      "charge_id": "CHG-0329",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0331"
+    },
+    {
+      "arrival_date": "2026-03-08",
+      "billed_fee_cents": 4074,
+      "charge_id": "CHG-0330",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0332"
+    },
+    {
+      "arrival_date": "2026-03-09",
+      "billed_fee_cents": 2909,
+      "charge_id": "CHG-0331",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0333"
+    },
+    {
+      "arrival_date": "2026-03-09",
+      "billed_fee_cents": 5918,
+      "charge_id": "CHG-0332",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0334"
+    },
+    {
+      "arrival_date": "2026-03-09",
+      "billed_fee_cents": 5697,
+      "charge_id": "CHG-0333",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0335"
+    },
+    {
+      "arrival_date": "2026-03-09",
+      "billed_fee_cents": 4266,
+      "charge_id": "CHG-0334",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0336"
+    },
+    {
+      "arrival_date": "2026-03-09",
+      "billed_fee_cents": 3293,
+      "charge_id": "CHG-0335",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0337"
+    },
+    {
+      "arrival_date": "2026-03-10",
+      "billed_fee_cents": 4841,
+      "charge_id": "CHG-0336",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0338"
+    },
+    {
+      "arrival_date": "2026-03-17",
+      "billed_fee_cents": 5992,
+      "charge_id": "CHG-0337",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0339"
+    },
+    {
+      "arrival_date": "2026-03-10",
+      "billed_fee_cents": 2998,
+      "charge_id": "CHG-0338",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0340"
+    },
+    {
+      "arrival_date": "2026-03-10",
+      "billed_fee_cents": 1596,
+      "charge_id": "CHG-0339",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0341"
+    },
+    {
+      "arrival_date": "2026-03-10",
+      "billed_fee_cents": 3071,
+      "charge_id": "CHG-0340",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0342"
+    },
+    {
+      "arrival_date": "2026-03-11",
+      "billed_fee_cents": 4738,
+      "charge_id": "CHG-0341",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0343"
+    },
+    {
+      "arrival_date": "2026-03-11",
+      "billed_fee_cents": 2142,
+      "charge_id": "CHG-0342",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0344"
+    },
+    {
+      "arrival_date": "2026-03-11",
+      "billed_fee_cents": 4340,
+      "charge_id": "CHG-0343",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0345"
+    },
+    {
+      "arrival_date": "2026-03-11",
+      "billed_fee_cents": 5136,
+      "charge_id": "CHG-0344",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0346"
+    },
+    {
+      "arrival_date": "2026-03-11",
+      "billed_fee_cents": 2821,
+      "charge_id": "CHG-0345",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0347"
+    },
+    {
+      "arrival_date": "2026-03-12",
+      "billed_fee_cents": 2157,
+      "charge_id": "CHG-0346",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0348"
+    },
+    {
+      "arrival_date": "2026-03-12",
+      "billed_fee_cents": 3411,
+      "charge_id": "CHG-0347",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0349"
+    },
+    {
+      "arrival_date": "2026-03-12",
+      "billed_fee_cents": 716,
+      "charge_id": "CHG-0348",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0350"
+    },
+    {
+      "arrival_date": "2026-03-12",
+      "billed_fee_cents": 1641,
+      "charge_id": "CHG-0349",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0351"
+    },
+    {
+      "arrival_date": "2026-03-12",
+      "billed_fee_cents": 1095,
+      "charge_id": "CHG-0350",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0352"
+    },
+    {
+      "arrival_date": "2026-03-13",
+      "billed_fee_cents": 5962,
+      "charge_id": "CHG-0351",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0353"
+    },
+    {
+      "arrival_date": "2026-03-13",
+      "billed_fee_cents": 6375,
+      "charge_id": "CHG-0352",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0354"
+    },
+    {
+      "arrival_date": "2026-03-13",
+      "billed_fee_cents": 785,
+      "charge_id": "CHG-0353",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0355"
+    },
+    {
+      "arrival_date": "2026-03-13",
+      "billed_fee_cents": 4237,
+      "charge_id": "CHG-0354",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0356"
+    },
+    {
+      "arrival_date": "2026-03-13",
+      "billed_fee_cents": 3263,
+      "charge_id": "CHG-0355",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0357"
+    },
+    {
+      "arrival_date": "2026-03-14",
+      "billed_fee_cents": 2599,
+      "charge_id": "CHG-0356",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0358"
+    },
+    {
+      "arrival_date": "2026-03-14",
+      "billed_fee_cents": 1183,
+      "charge_id": "CHG-0357",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0359"
+    },
+    {
+      "arrival_date": "2026-03-14",
+      "billed_fee_cents": 1242,
+      "charge_id": "CHG-0358",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0360"
+    },
+    {
+      "arrival_date": "2026-03-14",
+      "billed_fee_cents": 5874,
+      "charge_id": "CHG-0359",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0361"
+    },
+    {
+      "arrival_date": "2026-03-15",
+      "billed_fee_cents": 1331,
+      "charge_id": "CHG-0361",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0362"
+    },
+    {
+      "arrival_date": "2026-03-15",
+      "billed_fee_cents": 4900,
+      "charge_id": "CHG-0362",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0363"
+    },
+    {
+      "arrival_date": "2026-03-15",
+      "billed_fee_cents": 5195,
+      "charge_id": "CHG-0363",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0364"
+    },
+    {
+      "arrival_date": "2026-03-15",
+      "billed_fee_cents": 4635,
+      "charge_id": "CHG-0364",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0365"
+    },
+    {
+      "arrival_date": "2026-03-15",
+      "billed_fee_cents": 4030,
+      "charge_id": "CHG-0365",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0366"
+    },
+    {
+      "arrival_date": "2026-03-16",
+      "billed_fee_cents": 5136,
+      "charge_id": "CHG-0366",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0367"
+    },
+    {
+      "arrival_date": "2026-03-16",
+      "billed_fee_cents": 4989,
+      "charge_id": "CHG-0367",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0368"
+    },
+    {
+      "arrival_date": "2026-03-16",
+      "billed_fee_cents": 4605,
+      "charge_id": "CHG-0368",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0369"
+    },
+    {
+      "arrival_date": "2026-03-16",
+      "billed_fee_cents": 6449,
+      "charge_id": "CHG-0369",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0370"
+    },
+    {
+      "arrival_date": "2026-03-16",
+      "billed_fee_cents": 2290,
+      "charge_id": "CHG-0370",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0371"
+    },
+    {
+      "arrival_date": "2026-03-17",
+      "billed_fee_cents": 1301,
+      "charge_id": "CHG-0371",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0372"
+    },
+    {
+      "arrival_date": "2026-03-17",
+      "billed_fee_cents": 1995,
+      "charge_id": "CHG-0372",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0373"
+    },
+    {
+      "arrival_date": "2026-03-17",
+      "billed_fee_cents": 1877,
+      "charge_id": "CHG-0373",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0374"
+    },
+    {
+      "arrival_date": "2026-03-17",
+      "billed_fee_cents": 4089,
+      "charge_id": "CHG-0374",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0375"
+    },
+    {
+      "arrival_date": "2026-03-17",
+      "billed_fee_cents": 4237,
+      "charge_id": "CHG-0375",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0376"
+    },
+    {
+      "arrival_date": "2026-03-18",
+      "billed_fee_cents": 2437,
+      "charge_id": "CHG-0376",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0377"
+    },
+    {
+      "arrival_date": "2026-03-18",
+      "billed_fee_cents": 2821,
+      "charge_id": "CHG-0377",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0378"
+    },
+    {
+      "arrival_date": "2026-03-18",
+      "billed_fee_cents": 4119,
+      "charge_id": "CHG-0378",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0379"
+    },
+    {
+      "arrival_date": "2026-03-18",
+      "billed_fee_cents": 2452,
+      "charge_id": "CHG-0379",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0380"
+    },
+    {
+      "arrival_date": "2026-03-18",
+      "billed_fee_cents": 5417,
+      "charge_id": "CHG-0380",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0381"
+    },
+    {
+      "arrival_date": "2026-03-19",
+      "billed_fee_cents": 2186,
+      "charge_id": "CHG-0381",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0382"
+    },
+    {
+      "arrival_date": "2026-03-19",
+      "billed_fee_cents": 4797,
+      "charge_id": "CHG-0382",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0383"
+    },
+    {
+      "arrival_date": "2026-03-19",
+      "billed_fee_cents": 1818,
+      "charge_id": "CHG-0383",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0384"
+    },
+    {
+      "arrival_date": "2026-03-19",
+      "billed_fee_cents": 1759,
+      "charge_id": "CHG-0384",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0385"
+    },
+    {
+      "arrival_date": "2026-03-19",
+      "billed_fee_cents": 1936,
+      "charge_id": "CHG-0385",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0386"
+    },
+    {
+      "arrival_date": "2026-03-20",
+      "billed_fee_cents": 6346,
+      "charge_id": "CHG-0386",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0387"
+    },
+    {
+      "arrival_date": "2026-03-21",
+      "billed_fee_cents": 6346,
+      "charge_id": "CHG-0386",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0388"
+    },
+    {
+      "arrival_date": "2026-03-20",
+      "billed_fee_cents": 2865,
+      "charge_id": "CHG-0387",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0389"
+    },
+    {
+      "arrival_date": "2026-03-20",
+      "billed_fee_cents": 4222,
+      "charge_id": "CHG-0388",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0390"
+    },
+    {
+      "arrival_date": "2026-03-20",
+      "billed_fee_cents": 5191,
+      "charge_id": "CHG-0389",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0391"
+    },
+    {
+      "arrival_date": "2026-03-20",
+      "billed_fee_cents": 4473,
+      "charge_id": "CHG-0390",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0392"
+    },
+    {
+      "arrival_date": "2026-03-21",
+      "billed_fee_cents": 4001,
+      "charge_id": "CHG-0391",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0393"
+    },
+    {
+      "arrival_date": "2026-03-21",
+      "billed_fee_cents": 992,
+      "charge_id": "CHG-0392",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0394"
+    },
+    {
+      "arrival_date": "2026-03-21",
+      "billed_fee_cents": 3130,
+      "charge_id": "CHG-0393",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0395"
+    },
+    {
+      "arrival_date": "2026-03-21",
+      "billed_fee_cents": 888,
+      "charge_id": "CHG-0394",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0396"
+    },
+    {
+      "arrival_date": "2026-03-21",
+      "billed_fee_cents": 5785,
+      "charge_id": "CHG-0395",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0397"
+    },
+    {
+      "arrival_date": "2026-03-22",
+      "billed_fee_cents": 844,
+      "charge_id": "CHG-0396",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0398"
+    },
+    {
+      "arrival_date": "2026-03-22",
+      "billed_fee_cents": 2717,
+      "charge_id": "CHG-0397",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0399"
+    },
+    {
+      "arrival_date": "2026-03-22",
+      "billed_fee_cents": 6449,
+      "charge_id": "CHG-0398",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0400"
+    },
+    {
+      "arrival_date": "2026-03-22",
+      "billed_fee_cents": 4605,
+      "charge_id": "CHG-0399",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0401"
+    },
+    {
+      "arrival_date": "2026-03-22",
+      "billed_fee_cents": 2791,
+      "charge_id": "CHG-0400",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0402"
+    },
+    {
+      "arrival_date": "2026-03-23",
+      "billed_fee_cents": 3986,
+      "charge_id": "CHG-0401",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0403"
+    },
+    {
+      "arrival_date": "2026-03-23",
+      "billed_fee_cents": 4399,
+      "charge_id": "CHG-0402",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0404"
+    },
+    {
+      "arrival_date": "2026-03-23",
+      "billed_fee_cents": 3322,
+      "charge_id": "CHG-0403",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0405"
+    },
+    {
+      "arrival_date": "2026-03-23",
+      "billed_fee_cents": 3116,
+      "charge_id": "CHG-0404",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0406"
+    },
+    {
+      "arrival_date": "2026-03-23",
+      "billed_fee_cents": 1906,
+      "charge_id": "CHG-0405",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0407"
+    },
+    {
+      "arrival_date": "2026-03-24",
+      "billed_fee_cents": 5933,
+      "charge_id": "CHG-0406",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0408"
+    },
+    {
+      "arrival_date": "2026-03-24",
+      "billed_fee_cents": 5697,
+      "charge_id": "CHG-0407",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0409"
+    },
+    {
+      "arrival_date": "2026-03-24",
+      "billed_fee_cents": 5586,
+      "charge_id": "CHG-0408",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0410"
+    },
+    {
+      "arrival_date": "2026-03-24",
+      "billed_fee_cents": 4119,
+      "charge_id": "CHG-0409",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0411"
+    },
+    {
+      "arrival_date": "2026-03-24",
+      "billed_fee_cents": 2599,
+      "charge_id": "CHG-0410",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0412"
+    },
+    {
+      "arrival_date": "2026-03-25",
+      "billed_fee_cents": 3735,
+      "charge_id": "CHG-0411",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0413"
+    },
+    {
+      "arrival_date": "2026-03-25",
+      "billed_fee_cents": 697,
+      "charge_id": "CHG-0412",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0414"
+    },
+    {
+      "arrival_date": "2026-03-25",
+      "billed_fee_cents": 4782,
+      "charge_id": "CHG-0413",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0415"
+    },
+    {
+      "arrival_date": "2026-03-25",
+      "billed_fee_cents": 1095,
+      "charge_id": "CHG-0414",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0416"
+    },
+    {
+      "arrival_date": "2026-03-25",
+      "billed_fee_cents": 3425,
+      "charge_id": "CHG-0415",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0417"
+    },
+    {
+      "arrival_date": "2026-03-26",
+      "billed_fee_cents": 4458,
+      "charge_id": "CHG-0416",
+      "customer_id": "CUST-013",
+      "event_id": "EVT-0418"
+    },
+    {
+      "arrival_date": "2026-03-26",
+      "billed_fee_cents": 6434,
+      "charge_id": "CHG-0417",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0419"
+    },
+    {
+      "arrival_date": "2026-03-26",
+      "billed_fee_cents": 2703,
+      "charge_id": "CHG-0418",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0420"
+    },
+    {
+      "arrival_date": "2026-03-26",
+      "billed_fee_cents": 2865,
+      "charge_id": "CHG-0419",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0421"
+    },
+    {
+      "arrival_date": "2026-03-26",
+      "billed_fee_cents": 5962,
+      "charge_id": "CHG-0420",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0422"
+    },
+    {
+      "arrival_date": "2026-03-27",
+      "billed_fee_cents": 903,
+      "charge_id": "CHG-0421",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0423"
+    },
+    {
+      "arrival_date": "2026-03-27",
+      "billed_fee_cents": 2496,
+      "charge_id": "CHG-0422",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0424"
+    },
+    {
+      "arrival_date": "2026-03-27",
+      "billed_fee_cents": 3042,
+      "charge_id": "CHG-0423",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0425"
+    },
+    {
+      "arrival_date": "2026-03-27",
+      "billed_fee_cents": 4856,
+      "charge_id": "CHG-0424",
+      "customer_id": "CUST-001",
+      "event_id": "EVT-0426"
+    },
+    {
+      "arrival_date": "2026-03-27",
+      "billed_fee_cents": 2393,
+      "charge_id": "CHG-0425",
+      "customer_id": "CUST-002",
+      "event_id": "EVT-0427"
+    },
+    {
+      "arrival_date": "2026-03-28",
+      "billed_fee_cents": 1582,
+      "charge_id": "CHG-0426",
+      "customer_id": "CUST-008",
+      "event_id": "EVT-0428"
+    },
+    {
+      "arrival_date": "2026-03-28",
+      "billed_fee_cents": 1847,
+      "charge_id": "CHG-0427",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0429"
+    },
+    {
+      "arrival_date": "2026-03-28",
+      "billed_fee_cents": 5293,
+      "charge_id": "CHG-0428",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0430"
+    },
+    {
+      "arrival_date": "2026-03-28",
+      "billed_fee_cents": 6021,
+      "charge_id": "CHG-0429",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0431"
+    },
+    {
+      "arrival_date": "2026-03-28",
+      "billed_fee_cents": 4340,
+      "charge_id": "CHG-0430",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0432"
+    },
+    {
+      "arrival_date": "2026-03-29",
+      "billed_fee_cents": 4133,
+      "charge_id": "CHG-0431",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0433"
+    },
+    {
+      "arrival_date": "2026-03-29",
+      "billed_fee_cents": 3588,
+      "charge_id": "CHG-0432",
+      "customer_id": "CUST-003",
+      "event_id": "EVT-0434"
+    },
+    {
+      "arrival_date": "2026-03-29",
+      "billed_fee_cents": 5210,
+      "charge_id": "CHG-0433",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0435"
+    },
+    {
+      "arrival_date": "2026-03-29",
+      "billed_fee_cents": 1714,
+      "charge_id": "CHG-0434",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0436"
+    },
+    {
+      "arrival_date": "2026-03-29",
+      "billed_fee_cents": 3824,
+      "charge_id": "CHG-0435",
+      "customer_id": "CUST-005",
+      "event_id": "EVT-0437"
+    },
+    {
+      "arrival_date": "2026-03-30",
+      "billed_fee_cents": 4517,
+      "charge_id": "CHG-0436",
+      "customer_id": "CUST-015",
+      "event_id": "EVT-0438"
+    },
+    {
+      "arrival_date": "2026-03-30",
+      "billed_fee_cents": 711,
+      "charge_id": "CHG-0437",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0439"
+    },
+    {
+      "arrival_date": "2026-03-30",
+      "billed_fee_cents": 2939,
+      "charge_id": "CHG-0438",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0440"
+    },
+    {
+      "arrival_date": "2026-03-30",
+      "billed_fee_cents": 5667,
+      "charge_id": "CHG-0439",
+      "customer_id": "CUST-010",
+      "event_id": "EVT-0441"
+    },
+    {
+      "arrival_date": "2026-03-30",
+      "billed_fee_cents": 1818,
+      "charge_id": "CHG-0440",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0442"
+    },
+    {
+      "arrival_date": "2026-03-31",
+      "billed_fee_cents": 4340,
+      "charge_id": "CHG-0441",
+      "customer_id": "CUST-009",
+      "event_id": "EVT-0443"
+    },
+    {
+      "arrival_date": "2026-03-31",
+      "billed_fee_cents": 4856,
+      "charge_id": "CHG-0442",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0444"
+    },
+    {
+      "arrival_date": "2026-03-31",
+      "billed_fee_cents": 4133,
+      "charge_id": "CHG-0443",
+      "customer_id": "CUST-007",
+      "event_id": "EVT-0445"
+    },
+    {
+      "arrival_date": "2026-03-31",
+      "billed_fee_cents": 2113,
+      "charge_id": "CHG-0444",
+      "customer_id": "CUST-014",
+      "event_id": "EVT-0446"
+    },
+    {
+      "arrival_date": "2026-03-31",
+      "billed_fee_cents": 5003,
+      "charge_id": "CHG-0445",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0447"
+    },
+    {
+      "arrival_date": "2026-04-01",
+      "billed_fee_cents": 3794,
+      "charge_id": "CHG-0446",
+      "customer_id": "CUST-004",
+      "event_id": "EVT-0448"
+    },
+    {
+      "arrival_date": "2026-04-01",
+      "billed_fee_cents": 5484,
+      "charge_id": "CHG-0447",
+      "customer_id": "CUST-006",
+      "event_id": "EVT-0449"
+    },
+    {
+      "arrival_date": "2026-04-08",
+      "billed_fee_cents": 3573,
+      "charge_id": "CHG-0448",
+      "customer_id": "CUST-012",
+      "event_id": "EVT-0450"
+    },
+    {
+      "arrival_date": "2026-04-01",
+      "billed_fee_cents": 5608,
+      "charge_id": "CHG-0449",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0451"
+    },
+    {
+      "arrival_date": "2026-04-02",
+      "billed_fee_cents": 5608,
+      "charge_id": "CHG-0449",
+      "customer_id": "CUST-011",
+      "event_id": "EVT-0452"
+    }
+  ],
+  "fee_schedule": [
+    {
+      "base_cents": 499,
+      "effective_from": "2026-01-01",
+      "per_unit_millicents": 12750,
+      "version": "v1"
+    },
+    {
+      "base_cents": 549,
+      "effective_from": "2026-02-15",
+      "per_unit_millicents": 14750,
+      "version": "v2"
+    }
+  ],
+  "ledger": [
+    {
+      "charge_date": "2026-01-01",
+      "charge_id": "CHG-0001",
+      "customer_id": "CUST-011",
+      "plan": "starter",
+      "units": 67
+    },
+    {
+      "charge_date": "2026-01-01",
+      "charge_id": "CHG-0002",
+      "customer_id": "CUST-012",
+      "plan": "starter",
+      "units": 150
+    },
+    {
+      "charge_date": "2026-01-01",
+      "charge_id": "CHG-0003",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 81
+    },
+    {
+      "charge_date": "2026-01-01",
+      "charge_id": "CHG-0004",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 356
+    },
+    {
+      "charge_date": "2026-01-01",
+      "charge_id": "CHG-0005",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 289
+    },
+    {
+      "charge_date": "2026-01-02",
+      "charge_id": "CHG-0006",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 226
+    },
+    {
+      "charge_date": "2026-01-02",
+      "charge_id": "CHG-0007",
+      "customer_id": "CUST-001",
+      "plan": "starter",
+      "units": 57
+    },
+    {
+      "charge_date": "2026-01-02",
+      "charge_id": "CHG-0008",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 268
+    },
+    {
+      "charge_date": "2026-01-02",
+      "charge_id": "CHG-0009",
+      "customer_id": "CUST-001",
+      "plan": "starter",
+      "units": 297
+    },
+    {
+      "charge_date": "2026-01-02",
+      "charge_id": "CHG-0010",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 342
+    },
+    {
+      "charge_date": "2026-01-03",
+      "charge_id": "CHG-0011",
+      "customer_id": "CUST-009",
+      "plan": "starter",
+      "units": 224
+    },
+    {
+      "charge_date": "2026-01-03",
+      "charge_id": "CHG-0012",
+      "customer_id": "CUST-008",
+      "plan": "growth",
+      "units": 311
+    },
+    {
+      "charge_date": "2026-01-03",
+      "charge_id": "CHG-0013",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 13
+    },
+    {
+      "charge_date": "2026-01-03",
+      "charge_id": "CHG-0014",
+      "customer_id": "CUST-012",
+      "plan": "growth",
+      "units": 226
+    },
+    {
+      "charge_date": "2026-01-03",
+      "charge_id": "CHG-0015",
+      "customer_id": "CUST-005",
+      "plan": "starter",
+      "units": 89
+    },
+    {
+      "charge_date": "2026-01-04",
+      "charge_id": "CHG-0016",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 182
+    },
+    {
+      "charge_date": "2026-01-04",
+      "charge_id": "CHG-0017",
+      "customer_id": "CUST-002",
+      "plan": "starter",
+      "units": 204
+    },
+    {
+      "charge_date": "2026-01-04",
+      "charge_id": "CHG-0018",
+      "customer_id": "CUST-006",
+      "plan": "scale",
+      "units": 186
+    },
+    {
+      "charge_date": "2026-01-04",
+      "charge_id": "CHG-0019",
+      "customer_id": "CUST-005",
+      "plan": "scale",
+      "units": 32
+    },
+    {
+      "charge_date": "2026-01-04",
+      "charge_id": "CHG-0020",
+      "customer_id": "CUST-008",
+      "plan": "starter",
+      "units": 284
+    },
+    {
+      "charge_date": "2026-01-05",
+      "charge_id": "CHG-0021",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 203
+    },
+    {
+      "charge_date": "2026-01-05",
+      "charge_id": "CHG-0022",
+      "customer_id": "CUST-009",
+      "plan": "scale",
+      "units": 160
+    },
+    {
+      "charge_date": "2026-01-05",
+      "charge_id": "CHG-0023",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 195
+    },
+    {
+      "charge_date": "2026-01-05",
+      "charge_id": "CHG-0024",
+      "customer_id": "CUST-004",
+      "plan": "starter",
+      "units": 370
+    },
+    {
+      "charge_date": "2026-01-05",
+      "charge_id": "CHG-0025",
+      "customer_id": "CUST-001",
+      "plan": "starter",
+      "units": 348
+    },
+    {
+      "charge_date": "2026-01-06",
+      "charge_id": "CHG-0026",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 158
+    },
+    {
+      "charge_date": "2026-01-06",
+      "charge_id": "CHG-0027",
+      "customer_id": "CUST-014",
+      "plan": "starter",
+      "units": 129
+    },
+    {
+      "charge_date": "2026-01-06",
+      "charge_id": "CHG-0028",
+      "customer_id": "CUST-007",
+      "plan": "growth",
+      "units": 152
+    },
+    {
+      "charge_date": "2026-01-06",
+      "charge_id": "CHG-0029",
+      "customer_id": "CUST-011",
+      "plan": "starter",
+      "units": 196
+    },
+    {
+      "charge_date": "2026-01-06",
+      "charge_id": "CHG-0030",
+      "customer_id": "CUST-006",
+      "plan": "starter",
+      "units": 191
+    },
+    {
+      "charge_date": "2026-01-07",
+      "charge_id": "CHG-0031",
+      "customer_id": "CUST-011",
+      "plan": "scale",
+      "units": 146
+    },
+    {
+      "charge_date": "2026-01-07",
+      "charge_id": "CHG-0032",
+      "customer_id": "CUST-015",
+      "plan": "scale",
+      "units": 359
+    },
+    {
+      "charge_date": "2026-01-07",
+      "charge_id": "CHG-0033",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 321
+    },
+    {
+      "charge_date": "2026-01-07",
+      "charge_id": "CHG-0034",
+      "customer_id": "CUST-003",
+      "plan": "scale",
+      "units": 283
+    },
+    {
+      "charge_date": "2026-01-07",
+      "charge_id": "CHG-0035",
+      "customer_id": "CUST-004",
+      "plan": "growth",
+      "units": 93
+    },
+    {
+      "charge_date": "2026-01-08",
+      "charge_id": "CHG-0036",
+      "customer_id": "CUST-007",
+      "plan": "scale",
+      "units": 148
+    },
+    {
+      "charge_date": "2026-01-08",
+      "charge_id": "CHG-0037",
+      "customer_id": "CUST-012",
+      "plan": "starter",
+      "units": 295
+    },
+    {
+      "charge_date": "2026-01-08",
+      "charge_id": "CHG-0038",
+      "customer_id": "CUST-011",
+      "plan": "starter",
+      "units": 176
+    },
+    {
+      "charge_date": "2026-01-08",
+      "charge_id": "CHG-0039",
+      "customer_id": "CUST-004",
+      "plan": "growth",
+      "units": 26
+    },
+    {
+      "charge_date": "2026-01-08",
+      "charge_id": "CHG-0040",
+      "customer_id": "CUST-007",
+      "plan": "starter",
+      "units": 147
+    },
+    {
+      "charge_date": "2026-01-09",
+      "charge_id": "CHG-0041",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 300
+    },
+    {
+      "charge_date": "2026-01-09",
+      "charge_id": "CHG-0042",
+      "customer_id": "CUST-006",
+      "plan": "scale",
+      "units": 118
+    },
+    {
+      "charge_date": "2026-01-09",
+      "charge_id": "CHG-0043",
+      "customer_id": "CUST-008",
+      "plan": "scale",
+      "units": 212
+    },
+    {
+      "charge_date": "2026-01-09",
+      "charge_id": "CHG-0044",
+      "customer_id": "CUST-008",
+      "plan": "growth",
+      "units": 83
+    },
+    {
+      "charge_date": "2026-01-09",
+      "charge_id": "CHG-0045",
+      "customer_id": "CUST-003",
+      "plan": "scale",
+      "units": 136
+    },
+    {
+      "charge_date": "2026-01-10",
+      "charge_id": "CHG-0046",
+      "customer_id": "CUST-009",
+      "plan": "growth",
+      "units": 285
+    },
+    {
+      "charge_date": "2026-01-10",
+      "charge_id": "CHG-0047",
+      "customer_id": "CUST-012",
+      "plan": "growth",
+      "units": 309
+    },
+    {
+      "charge_date": "2026-01-10",
+      "charge_id": "CHG-0048",
+      "customer_id": "CUST-015",
+      "plan": "growth",
+      "units": 308
+    },
+    {
+      "charge_date": "2026-01-10",
+      "charge_id": "CHG-0049",
+      "customer_id": "CUST-006",
+      "plan": "starter",
+      "units": 122
+    },
+    {
+      "charge_date": "2026-01-10",
+      "charge_id": "CHG-0050",
+      "customer_id": "CUST-009",
+      "plan": "starter",
+      "units": 262
+    },
+    {
+      "charge_date": "2026-01-11",
+      "charge_id": "CHG-0051",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 34
+    },
+    {
+      "charge_date": "2026-01-11",
+      "charge_id": "CHG-0052",
+      "customer_id": "CUST-003",
+      "plan": "starter",
+      "units": 331
+    },
+    {
+      "charge_date": "2026-01-11",
+      "charge_id": "CHG-0053",
+      "customer_id": "CUST-013",
+      "plan": "growth",
+      "units": 358
+    },
+    {
+      "charge_date": "2026-01-11",
+      "charge_id": "CHG-0054",
+      "customer_id": "CUST-010",
+      "plan": "growth",
+      "units": 42
+    },
+    {
+      "charge_date": "2026-01-11",
+      "charge_id": "CHG-0055",
+      "customer_id": "CUST-007",
+      "plan": "growth",
+      "units": 315
+    },
+    {
+      "charge_date": "2026-01-12",
+      "charge_id": "CHG-0056",
+      "customer_id": "CUST-009",
+      "plan": "scale",
+      "units": 138
+    },
+    {
+      "charge_date": "2026-01-12",
+      "charge_id": "CHG-0057",
+      "customer_id": "CUST-014",
+      "plan": "scale",
+      "units": 15
+    },
+    {
+      "charge_date": "2026-01-12",
+      "charge_id": "CHG-0058",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 68
+    },
+    {
+      "charge_date": "2026-01-12",
+      "charge_id": "CHG-0059",
+      "customer_id": "CUST-015",
+      "plan": "growth",
+      "units": 284
+    },
+    {
+      "charge_date": "2026-01-12",
+      "charge_id": "CHG-0060",
+      "customer_id": "CUST-013",
+      "plan": "growth",
+      "units": 338
+    },
+    {
+      "charge_date": "2026-01-13",
+      "charge_id": "CHG-0061",
+      "customer_id": "CUST-002",
+      "plan": "growth",
+      "units": 160
+    },
+    {
+      "charge_date": "2026-01-13",
+      "charge_id": "CHG-0062",
+      "customer_id": "CUST-003",
+      "plan": "starter",
+      "units": 242
+    },
+    {
+      "charge_date": "2026-01-13",
+      "charge_id": "CHG-0063",
+      "customer_id": "CUST-012",
+      "plan": "growth",
+      "units": 378
+    },
+    {
+      "charge_date": "2026-01-13",
+      "charge_id": "CHG-0064",
+      "customer_id": "CUST-009",
+      "plan": "starter",
+      "units": 400
+    },
+    {
+      "charge_date": "2026-01-13",
+      "charge_id": "CHG-0065",
+      "customer_id": "CUST-009",
+      "plan": "scale",
+      "units": 64
+    },
+    {
+      "charge_date": "2026-01-14",
+      "charge_id": "CHG-0066",
+      "customer_id": "CUST-005",
+      "plan": "scale",
+      "units": 337
+    },
+    {
+      "charge_date": "2026-01-14",
+      "charge_id": "CHG-0067",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 111
+    },
+    {
+      "charge_date": "2026-01-14",
+      "charge_id": "CHG-0068",
+      "customer_id": "CUST-006",
+      "plan": "starter",
+      "units": 400
+    },
+    {
+      "charge_date": "2026-01-14",
+      "charge_id": "CHG-0069",
+      "customer_id": "CUST-009",
+      "plan": "starter",
+      "units": 281
+    },
+    {
+      "charge_date": "2026-01-14",
+      "charge_id": "CHG-0070",
+      "customer_id": "CUST-010",
+      "plan": "growth",
+      "units": 175
+    },
+    {
+      "charge_date": "2026-01-15",
+      "charge_id": "CHG-0071",
+      "customer_id": "CUST-001",
+      "plan": "growth",
+      "units": 67
+    },
+    {
+      "charge_date": "2026-01-15",
+      "charge_id": "CHG-0072",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 167
+    },
+    {
+      "charge_date": "2026-01-15",
+      "charge_id": "CHG-0073",
+      "customer_id": "CUST-001",
+      "plan": "scale",
+      "units": 133
+    },
+    {
+      "charge_date": "2026-01-15",
+      "charge_id": "CHG-0074",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 53
+    },
+    {
+      "charge_date": "2026-01-15",
+      "charge_id": "CHG-0075",
+      "customer_id": "CUST-008",
+      "plan": "scale",
+      "units": 45
+    },
+    {
+      "charge_date": "2026-01-16",
+      "charge_id": "CHG-0076",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 74
+    },
+    {
+      "charge_date": "2026-01-16",
+      "charge_id": "CHG-0077",
+      "customer_id": "CUST-011",
+      "plan": "scale",
+      "units": 253
+    },
+    {
+      "charge_date": "2026-01-16",
+      "charge_id": "CHG-0078",
+      "customer_id": "CUST-003",
+      "plan": "scale",
+      "units": 145
+    },
+    {
+      "charge_date": "2026-01-16",
+      "charge_id": "CHG-0079",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 320
+    },
+    {
+      "charge_date": "2026-01-16",
+      "charge_id": "CHG-0080",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 286
+    },
+    {
+      "charge_date": "2026-01-17",
+      "charge_id": "CHG-0081",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 112
+    },
+    {
+      "charge_date": "2026-01-17",
+      "charge_id": "CHG-0082",
+      "customer_id": "CUST-005",
+      "plan": "scale",
+      "units": 214
+    },
+    {
+      "charge_date": "2026-01-17",
+      "charge_id": "CHG-0083",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 201
+    },
+    {
+      "charge_date": "2026-01-17",
+      "charge_id": "CHG-0084",
+      "customer_id": "CUST-015",
+      "plan": "growth",
+      "units": 274
+    },
+    {
+      "charge_date": "2026-01-17",
+      "charge_id": "CHG-0085",
+      "customer_id": "CUST-002",
+      "plan": "starter",
+      "units": 136
+    },
+    {
+      "charge_date": "2026-01-18",
+      "charge_id": "CHG-0086",
+      "customer_id": "CUST-002",
+      "plan": "starter",
+      "units": 183
+    },
+    {
+      "charge_date": "2026-01-18",
+      "charge_id": "CHG-0087",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 293
+    },
+    {
+      "charge_date": "2026-01-18",
+      "charge_id": "CHG-0088",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 122
+    },
+    {
+      "charge_date": "2026-01-18",
+      "charge_id": "CHG-0089",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 372
+    },
+    {
+      "charge_date": "2026-01-18",
+      "charge_id": "CHG-0090",
+      "customer_id": "CUST-001",
+      "plan": "starter",
+      "units": 127
+    },
+    {
+      "charge_date": "2026-01-19",
+      "charge_id": "CHG-0091",
+      "customer_id": "CUST-015",
+      "plan": "growth",
+      "units": 26
+    },
+    {
+      "charge_date": "2026-01-19",
+      "charge_id": "CHG-0092",
+      "customer_id": "CUST-002",
+      "plan": "starter",
+      "units": 273
+    },
+    {
+      "charge_date": "2026-01-19",
+      "charge_id": "CHG-0093",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 352
+    },
+    {
+      "charge_date": "2026-01-19",
+      "charge_id": "CHG-0094",
+      "customer_id": "CUST-004",
+      "plan": "starter",
+      "units": 286
+    },
+    {
+      "charge_date": "2026-01-19",
+      "charge_id": "CHG-0095",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 302
+    },
+    {
+      "charge_date": "2026-01-20",
+      "charge_id": "CHG-0096",
+      "customer_id": "CUST-008",
+      "plan": "growth",
+      "units": 134
+    },
+    {
+      "charge_date": "2026-01-20",
+      "charge_id": "CHG-0097",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 218
+    },
+    {
+      "charge_date": "2026-01-20",
+      "charge_id": "CHG-0098",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 59
+    },
+    {
+      "charge_date": "2026-01-20",
+      "charge_id": "CHG-0099",
+      "customer_id": "CUST-007",
+      "plan": "growth",
+      "units": 191
+    },
+    {
+      "charge_date": "2026-01-20",
+      "charge_id": "CHG-0100",
+      "customer_id": "CUST-007",
+      "plan": "scale",
+      "units": 249
+    },
+    {
+      "charge_date": "2026-01-21",
+      "charge_id": "CHG-0101",
+      "customer_id": "CUST-001",
+      "plan": "scale",
+      "units": 354
+    },
+    {
+      "charge_date": "2026-01-21",
+      "charge_id": "CHG-0102",
+      "customer_id": "CUST-011",
+      "plan": "starter",
+      "units": 60
+    },
+    {
+      "charge_date": "2026-01-21",
+      "charge_id": "CHG-0103",
+      "customer_id": "CUST-007",
+      "plan": "growth",
+      "units": 382
+    },
+    {
+      "charge_date": "2026-01-21",
+      "charge_id": "CHG-0104",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 65
+    },
+    {
+      "charge_date": "2026-01-21",
+      "charge_id": "CHG-0105",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 107
+    },
+    {
+      "charge_date": "2026-01-22",
+      "charge_id": "CHG-0106",
+      "customer_id": "CUST-008",
+      "plan": "growth",
+      "units": 81
+    },
+    {
+      "charge_date": "2026-01-22",
+      "charge_id": "CHG-0107",
+      "customer_id": "CUST-003",
+      "plan": "growth",
+      "units": 152
+    },
+    {
+      "charge_date": "2026-01-22",
+      "charge_id": "CHG-0108",
+      "customer_id": "CUST-004",
+      "plan": "growth",
+      "units": 48
+    },
+    {
+      "charge_date": "2026-01-22",
+      "charge_id": "CHG-0109",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 291
+    },
+    {
+      "charge_date": "2026-01-22",
+      "charge_id": "CHG-0110",
+      "customer_id": "CUST-001",
+      "plan": "scale",
+      "units": 343
+    },
+    {
+      "charge_date": "2026-01-23",
+      "charge_id": "CHG-0111",
+      "customer_id": "CUST-014",
+      "plan": "starter",
+      "units": 17
+    },
+    {
+      "charge_date": "2026-01-23",
+      "charge_id": "CHG-0112",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 395
+    },
+    {
+      "charge_date": "2026-01-23",
+      "charge_id": "CHG-0113",
+      "customer_id": "CUST-003",
+      "plan": "growth",
+      "units": 218
+    },
+    {
+      "charge_date": "2026-01-23",
+      "charge_id": "CHG-0114",
+      "customer_id": "CUST-008",
+      "plan": "growth",
+      "units": 119
+    },
+    {
+      "charge_date": "2026-01-23",
+      "charge_id": "CHG-0115",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 40
+    },
+    {
+      "charge_date": "2026-01-24",
+      "charge_id": "CHG-0116",
+      "customer_id": "CUST-007",
+      "plan": "growth",
+      "units": 11
+    },
+    {
+      "charge_date": "2026-01-24",
+      "charge_id": "CHG-0117",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 242
+    },
+    {
+      "charge_date": "2026-01-24",
+      "charge_id": "CHG-0118",
+      "customer_id": "CUST-007",
+      "plan": "scale",
+      "units": 366
+    },
+    {
+      "charge_date": "2026-01-24",
+      "charge_id": "CHG-0119",
+      "customer_id": "CUST-013",
+      "plan": "scale",
+      "units": 294
+    },
+    {
+      "charge_date": "2026-01-24",
+      "charge_id": "CHG-0120",
+      "customer_id": "CUST-012",
+      "plan": "starter",
+      "units": 259
+    },
+    {
+      "charge_date": "2026-01-25",
+      "charge_id": "CHG-0121",
+      "customer_id": "CUST-004",
+      "plan": "starter",
+      "units": 161
+    },
+    {
+      "charge_date": "2026-01-25",
+      "charge_id": "CHG-0122",
+      "customer_id": "CUST-001",
+      "plan": "scale",
+      "units": 306
+    },
+    {
+      "charge_date": "2026-01-25",
+      "charge_id": "CHG-0123",
+      "customer_id": "CUST-009",
+      "plan": "scale",
+      "units": 41
+    },
+    {
+      "charge_date": "2026-01-25",
+      "charge_id": "CHG-0124",
+      "customer_id": "CUST-006",
+      "plan": "starter",
+      "units": 39
+    },
+    {
+      "charge_date": "2026-01-25",
+      "charge_id": "CHG-0125",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 254
+    },
+    {
+      "charge_date": "2026-01-26",
+      "charge_id": "CHG-0126",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 281
+    },
+    {
+      "charge_date": "2026-01-26",
+      "charge_id": "CHG-0127",
+      "customer_id": "CUST-001",
+      "plan": "starter",
+      "units": 270
+    },
+    {
+      "charge_date": "2026-01-26",
+      "charge_id": "CHG-0128",
+      "customer_id": "CUST-014",
+      "plan": "starter",
+      "units": 105
+    },
+    {
+      "charge_date": "2026-01-26",
+      "charge_id": "CHG-0129",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 44
+    },
+    {
+      "charge_date": "2026-01-26",
+      "charge_id": "CHG-0130",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 130
+    },
+    {
+      "charge_date": "2026-01-27",
+      "charge_id": "CHG-0131",
+      "customer_id": "CUST-002",
+      "plan": "starter",
+      "units": 301
+    },
+    {
+      "charge_date": "2026-01-27",
+      "charge_id": "CHG-0132",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 314
+    },
+    {
+      "charge_date": "2026-01-27",
+      "charge_id": "CHG-0133",
+      "customer_id": "CUST-010",
+      "plan": "growth",
+      "units": 51
+    },
+    {
+      "charge_date": "2026-01-27",
+      "charge_id": "CHG-0134",
+      "customer_id": "CUST-011",
+      "plan": "scale",
+      "units": 308
+    },
+    {
+      "charge_date": "2026-01-27",
+      "charge_id": "CHG-0135",
+      "customer_id": "CUST-009",
+      "plan": "growth",
+      "units": 171
+    },
+    {
+      "charge_date": "2026-01-28",
+      "charge_id": "CHG-0136",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 352
+    },
+    {
+      "charge_date": "2026-01-28",
+      "charge_id": "CHG-0137",
+      "customer_id": "CUST-006",
+      "plan": "growth",
+      "units": 132
+    },
+    {
+      "charge_date": "2026-01-28",
+      "charge_id": "CHG-0138",
+      "customer_id": "CUST-007",
+      "plan": "scale",
+      "units": 77
+    },
+    {
+      "charge_date": "2026-01-28",
+      "charge_id": "CHG-0139",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 163
+    },
+    {
+      "charge_date": "2026-01-28",
+      "charge_id": "CHG-0140",
+      "customer_id": "CUST-006",
+      "plan": "starter",
+      "units": 394
+    },
+    {
+      "charge_date": "2026-01-29",
+      "charge_id": "CHG-0141",
+      "customer_id": "CUST-001",
+      "plan": "scale",
+      "units": 244
+    },
+    {
+      "charge_date": "2026-01-29",
+      "charge_id": "CHG-0142",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 61
+    },
+    {
+      "charge_date": "2026-01-29",
+      "charge_id": "CHG-0143",
+      "customer_id": "CUST-009",
+      "plan": "scale",
+      "units": 119
+    },
+    {
+      "charge_date": "2026-01-29",
+      "charge_id": "CHG-0144",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 77
+    },
+    {
+      "charge_date": "2026-01-29",
+      "charge_id": "CHG-0145",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 45
+    },
+    {
+      "charge_date": "2026-01-30",
+      "charge_id": "CHG-0146",
+      "customer_id": "CUST-006",
+      "plan": "starter",
+      "units": 155
+    },
+    {
+      "charge_date": "2026-01-30",
+      "charge_id": "CHG-0147",
+      "customer_id": "CUST-008",
+      "plan": "scale",
+      "units": 288
+    },
+    {
+      "charge_date": "2026-01-30",
+      "charge_id": "CHG-0148",
+      "customer_id": "CUST-005",
+      "plan": "scale",
+      "units": 323
+    },
+    {
+      "charge_date": "2026-01-30",
+      "charge_id": "CHG-0149",
+      "customer_id": "CUST-009",
+      "plan": "scale",
+      "units": 14
+    },
+    {
+      "charge_date": "2026-01-30",
+      "charge_id": "CHG-0150",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 293
+    },
+    {
+      "charge_date": "2026-01-31",
+      "charge_id": "CHG-0151",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 349
+    },
+    {
+      "charge_date": "2026-01-31",
+      "charge_id": "CHG-0152",
+      "customer_id": "CUST-015",
+      "plan": "growth",
+      "units": 78
+    },
+    {
+      "charge_date": "2026-01-31",
+      "charge_id": "CHG-0153",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 64
+    },
+    {
+      "charge_date": "2026-01-31",
+      "charge_id": "CHG-0154",
+      "customer_id": "CUST-009",
+      "plan": "growth",
+      "units": 89
+    },
+    {
+      "charge_date": "2026-01-31",
+      "charge_id": "CHG-0155",
+      "customer_id": "CUST-005",
+      "plan": "starter",
+      "units": 319
+    },
+    {
+      "charge_date": "2026-02-01",
+      "charge_id": "CHG-0156",
+      "customer_id": "CUST-012",
+      "plan": "starter",
+      "units": 185
+    },
+    {
+      "charge_date": "2026-02-01",
+      "charge_id": "CHG-0157",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 334
+    },
+    {
+      "charge_date": "2026-02-01",
+      "charge_id": "CHG-0158",
+      "customer_id": "CUST-009",
+      "plan": "growth",
+      "units": 260
+    },
+    {
+      "charge_date": "2026-02-01",
+      "charge_id": "CHG-0159",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 36
+    },
+    {
+      "charge_date": "2026-02-01",
+      "charge_id": "CHG-0160",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 226
+    },
+    {
+      "charge_date": "2026-02-02",
+      "charge_id": "CHG-0161",
+      "customer_id": "CUST-001",
+      "plan": "growth",
+      "units": 11
+    },
+    {
+      "charge_date": "2026-02-02",
+      "charge_id": "CHG-0162",
+      "customer_id": "CUST-013",
+      "plan": "scale",
+      "units": 76
+    },
+    {
+      "charge_date": "2026-02-02",
+      "charge_id": "CHG-0163",
+      "customer_id": "CUST-005",
+      "plan": "scale",
+      "units": 92
+    },
+    {
+      "charge_date": "2026-02-02",
+      "charge_id": "CHG-0164",
+      "customer_id": "CUST-008",
+      "plan": "scale",
+      "units": 292
+    },
+    {
+      "charge_date": "2026-02-02",
+      "charge_id": "CHG-0165",
+      "customer_id": "CUST-007",
+      "plan": "starter",
+      "units": 297
+    },
+    {
+      "charge_date": "2026-02-03",
+      "charge_id": "CHG-0166",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 48
+    },
+    {
+      "charge_date": "2026-02-03",
+      "charge_id": "CHG-0167",
+      "customer_id": "CUST-015",
+      "plan": "scale",
+      "units": 86
+    },
+    {
+      "charge_date": "2026-02-03",
+      "charge_id": "CHG-0168",
+      "customer_id": "CUST-001",
+      "plan": "scale",
+      "units": 199
+    },
+    {
+      "charge_date": "2026-02-03",
+      "charge_id": "CHG-0169",
+      "customer_id": "CUST-009",
+      "plan": "growth",
+      "units": 85
+    },
+    {
+      "charge_date": "2026-02-03",
+      "charge_id": "CHG-0170",
+      "customer_id": "CUST-003",
+      "plan": "growth",
+      "units": 31
+    },
+    {
+      "charge_date": "2026-02-04",
+      "charge_id": "CHG-0171",
+      "customer_id": "CUST-006",
+      "plan": "growth",
+      "units": 30
+    },
+    {
+      "charge_date": "2026-02-04",
+      "charge_id": "CHG-0172",
+      "customer_id": "CUST-004",
+      "plan": "starter",
+      "units": 359
+    },
+    {
+      "charge_date": "2026-02-04",
+      "charge_id": "CHG-0173",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 62
+    },
+    {
+      "charge_date": "2026-02-04",
+      "charge_id": "CHG-0174",
+      "customer_id": "CUST-013",
+      "plan": "growth",
+      "units": 296
+    },
+    {
+      "charge_date": "2026-02-04",
+      "charge_id": "CHG-0175",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 393
+    },
+    {
+      "charge_date": "2026-02-05",
+      "charge_id": "CHG-0176",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 131
+    },
+    {
+      "charge_date": "2026-02-05",
+      "charge_id": "CHG-0177",
+      "customer_id": "CUST-013",
+      "plan": "growth",
+      "units": 100
+    },
+    {
+      "charge_date": "2026-02-05",
+      "charge_id": "CHG-0178",
+      "customer_id": "CUST-001",
+      "plan": "scale",
+      "units": 101
+    },
+    {
+      "charge_date": "2026-02-05",
+      "charge_id": "CHG-0179",
+      "customer_id": "CUST-015",
+      "plan": "growth",
+      "units": 180
+    },
+    {
+      "charge_date": "2026-02-05",
+      "charge_id": "CHG-0180",
+      "customer_id": "CUST-013",
+      "plan": "scale",
+      "units": 352
+    },
+    {
+      "charge_date": "2026-02-06",
+      "charge_id": "CHG-0181",
+      "customer_id": "CUST-013",
+      "plan": "growth",
+      "units": 137
+    },
+    {
+      "charge_date": "2026-02-06",
+      "charge_id": "CHG-0182",
+      "customer_id": "CUST-003",
+      "plan": "starter",
+      "units": 369
+    },
+    {
+      "charge_date": "2026-02-06",
+      "charge_id": "CHG-0183",
+      "customer_id": "CUST-007",
+      "plan": "growth",
+      "units": 29
+    },
+    {
+      "charge_date": "2026-02-06",
+      "charge_id": "CHG-0184",
+      "customer_id": "CUST-004",
+      "plan": "growth",
+      "units": 112
+    },
+    {
+      "charge_date": "2026-02-06",
+      "charge_id": "CHG-0185",
+      "customer_id": "CUST-006",
+      "plan": "starter",
+      "units": 166
+    },
+    {
+      "charge_date": "2026-02-07",
+      "charge_id": "CHG-0186",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 22
+    },
+    {
+      "charge_date": "2026-02-07",
+      "charge_id": "CHG-0187",
+      "customer_id": "CUST-004",
+      "plan": "growth",
+      "units": 214
+    },
+    {
+      "charge_date": "2026-02-07",
+      "charge_id": "CHG-0188",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 45
+    },
+    {
+      "charge_date": "2026-02-07",
+      "charge_id": "CHG-0189",
+      "customer_id": "CUST-006",
+      "plan": "scale",
+      "units": 338
+    },
+    {
+      "charge_date": "2026-02-07",
+      "charge_id": "CHG-0190",
+      "customer_id": "CUST-007",
+      "plan": "scale",
+      "units": 357
+    },
+    {
+      "charge_date": "2026-02-08",
+      "charge_id": "CHG-0191",
+      "customer_id": "CUST-006",
+      "plan": "starter",
+      "units": 24
+    },
+    {
+      "charge_date": "2026-02-08",
+      "charge_id": "CHG-0192",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 143
+    },
+    {
+      "charge_date": "2026-02-08",
+      "charge_id": "CHG-0193",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 145
+    },
+    {
+      "charge_date": "2026-02-08",
+      "charge_id": "CHG-0194",
+      "customer_id": "CUST-002",
+      "plan": "growth",
+      "units": 315
+    },
+    {
+      "charge_date": "2026-02-08",
+      "charge_id": "CHG-0195",
+      "customer_id": "CUST-006",
+      "plan": "growth",
+      "units": 383
+    },
+    {
+      "charge_date": "2026-02-09",
+      "charge_id": "CHG-0196",
+      "customer_id": "CUST-007",
+      "plan": "scale",
+      "units": 320
+    },
+    {
+      "charge_date": "2026-02-09",
+      "charge_id": "CHG-0197",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 207
+    },
+    {
+      "charge_date": "2026-02-09",
+      "charge_id": "CHG-0198",
+      "customer_id": "CUST-004",
+      "plan": "starter",
+      "units": 140
+    },
+    {
+      "charge_date": "2026-02-09",
+      "charge_id": "CHG-0199",
+      "customer_id": "CUST-012",
+      "plan": "starter",
+      "units": 233
+    },
+    {
+      "charge_date": "2026-02-09",
+      "charge_id": "CHG-0200",
+      "customer_id": "CUST-009",
+      "plan": "scale",
+      "units": 285
+    },
+    {
+      "charge_date": "2026-02-10",
+      "charge_id": "CHG-0201",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 389
+    },
+    {
+      "charge_date": "2026-02-10",
+      "charge_id": "CHG-0202",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 110
+    },
+    {
+      "charge_date": "2026-02-10",
+      "charge_id": "CHG-0203",
+      "customer_id": "CUST-007",
+      "plan": "scale",
+      "units": 45
+    },
+    {
+      "charge_date": "2026-02-10",
+      "charge_id": "CHG-0204",
+      "customer_id": "CUST-015",
+      "plan": "scale",
+      "units": 179
+    },
+    {
+      "charge_date": "2026-02-10",
+      "charge_id": "CHG-0205",
+      "customer_id": "CUST-006",
+      "plan": "starter",
+      "units": 349
+    },
+    {
+      "charge_date": "2026-02-11",
+      "charge_id": "CHG-0206",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 163
+    },
+    {
+      "charge_date": "2026-02-11",
+      "charge_id": "CHG-0207",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 351
+    },
+    {
+      "charge_date": "2026-02-11",
+      "charge_id": "CHG-0208",
+      "customer_id": "CUST-006",
+      "plan": "scale",
+      "units": 216
+    },
+    {
+      "charge_date": "2026-02-11",
+      "charge_id": "CHG-0209",
+      "customer_id": "CUST-005",
+      "plan": "starter",
+      "units": 293
+    },
+    {
+      "charge_date": "2026-02-11",
+      "charge_id": "CHG-0210",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 225
+    },
+    {
+      "charge_date": "2026-02-12",
+      "charge_id": "CHG-0211",
+      "customer_id": "CUST-007",
+      "plan": "scale",
+      "units": 356
+    },
+    {
+      "charge_date": "2026-02-12",
+      "charge_id": "CHG-0212",
+      "customer_id": "CUST-015",
+      "plan": "scale",
+      "units": 99
+    },
+    {
+      "charge_date": "2026-02-12",
+      "charge_id": "CHG-0213",
+      "customer_id": "CUST-010",
+      "plan": "growth",
+      "units": 164
+    },
+    {
+      "charge_date": "2026-02-12",
+      "charge_id": "CHG-0214",
+      "customer_id": "CUST-009",
+      "plan": "growth",
+      "units": 10
+    },
+    {
+      "charge_date": "2026-02-12",
+      "charge_id": "CHG-0215",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 117
+    },
+    {
+      "charge_date": "2026-02-13",
+      "charge_id": "CHG-0216",
+      "customer_id": "CUST-013",
+      "plan": "scale",
+      "units": 306
+    },
+    {
+      "charge_date": "2026-02-13",
+      "charge_id": "CHG-0217",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 174
+    },
+    {
+      "charge_date": "2026-02-13",
+      "charge_id": "CHG-0218",
+      "customer_id": "CUST-008",
+      "plan": "scale",
+      "units": 236
+    },
+    {
+      "charge_date": "2026-02-13",
+      "charge_id": "CHG-0219",
+      "customer_id": "CUST-004",
+      "plan": "growth",
+      "units": 271
+    },
+    {
+      "charge_date": "2026-02-13",
+      "charge_id": "CHG-0220",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 386
+    },
+    {
+      "charge_date": "2026-02-14",
+      "charge_id": "CHG-0221",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 53
+    },
+    {
+      "charge_date": "2026-02-14",
+      "charge_id": "CHG-0222",
+      "customer_id": "CUST-009",
+      "plan": "scale",
+      "units": 349
+    },
+    {
+      "charge_date": "2026-02-14",
+      "charge_id": "CHG-0223",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 181
+    },
+    {
+      "charge_date": "2026-02-14",
+      "charge_id": "CHG-0224",
+      "customer_id": "CUST-014",
+      "plan": "starter",
+      "units": 394
+    },
+    {
+      "charge_date": "2026-02-14",
+      "charge_id": "CHG-0225",
+      "customer_id": "CUST-011",
+      "plan": "starter",
+      "units": 168
+    },
+    {
+      "charge_date": "2026-02-15",
+      "charge_id": "CHG-0226",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 111
+    },
+    {
+      "charge_date": "2026-02-15",
+      "charge_id": "CHG-0227",
+      "customer_id": "CUST-001",
+      "plan": "starter",
+      "units": 33
+    },
+    {
+      "charge_date": "2026-02-15",
+      "charge_id": "CHG-0228",
+      "customer_id": "CUST-008",
+      "plan": "starter",
+      "units": 322
+    },
+    {
+      "charge_date": "2026-02-15",
+      "charge_id": "CHG-0229",
+      "customer_id": "CUST-008",
+      "plan": "scale",
+      "units": 222
+    },
+    {
+      "charge_date": "2026-02-15",
+      "charge_id": "CHG-0230",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 109
+    },
+    {
+      "charge_date": "2026-02-16",
+      "charge_id": "CHG-0231",
+      "customer_id": "CUST-012",
+      "plan": "growth",
+      "units": 206
+    },
+    {
+      "charge_date": "2026-02-16",
+      "charge_id": "CHG-0232",
+      "customer_id": "CUST-007",
+      "plan": "starter",
+      "units": 134
+    },
+    {
+      "charge_date": "2026-02-16",
+      "charge_id": "CHG-0233",
+      "customer_id": "CUST-011",
+      "plan": "starter",
+      "units": 362
+    },
+    {
+      "charge_date": "2026-02-16",
+      "charge_id": "CHG-0234",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 394
+    },
+    {
+      "charge_date": "2026-02-16",
+      "charge_id": "CHG-0235",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 227
+    },
+    {
+      "charge_date": "2026-02-17",
+      "charge_id": "CHG-0236",
+      "customer_id": "CUST-003",
+      "plan": "scale",
+      "units": 366
+    },
+    {
+      "charge_date": "2026-02-17",
+      "charge_id": "CHG-0237",
+      "customer_id": "CUST-008",
+      "plan": "scale",
+      "units": 35
+    },
+    {
+      "charge_date": "2026-02-17",
+      "charge_id": "CHG-0238",
+      "customer_id": "CUST-004",
+      "plan": "growth",
+      "units": 72
+    },
+    {
+      "charge_date": "2026-02-17",
+      "charge_id": "CHG-0239",
+      "customer_id": "CUST-003",
+      "plan": "scale",
+      "units": 247
+    },
+    {
+      "charge_date": "2026-02-17",
+      "charge_id": "CHG-0240",
+      "customer_id": "CUST-009",
+      "plan": "scale",
+      "units": 296
+    },
+    {
+      "charge_date": "2026-02-18",
+      "charge_id": "CHG-0241",
+      "customer_id": "CUST-006",
+      "plan": "growth",
+      "units": 396
+    },
+    {
+      "charge_date": "2026-02-18",
+      "charge_id": "CHG-0242",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 378
+    },
+    {
+      "charge_date": "2026-02-18",
+      "charge_id": "CHG-0243",
+      "customer_id": "CUST-007",
+      "plan": "growth",
+      "units": 290
+    },
+    {
+      "charge_date": "2026-02-18",
+      "charge_id": "CHG-0244",
+      "customer_id": "CUST-015",
+      "plan": "scale",
+      "units": 91
+    },
+    {
+      "charge_date": "2026-02-18",
+      "charge_id": "CHG-0245",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 253
+    },
+    {
+      "charge_date": "2026-02-19",
+      "charge_id": "CHG-0246",
+      "customer_id": "CUST-005",
+      "plan": "starter",
+      "units": 394
+    },
+    {
+      "charge_date": "2026-02-19",
+      "charge_id": "CHG-0247",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 336
+    },
+    {
+      "charge_date": "2026-02-19",
+      "charge_id": "CHG-0248",
+      "customer_id": "CUST-013",
+      "plan": "growth",
+      "units": 276
+    },
+    {
+      "charge_date": "2026-02-19",
+      "charge_id": "CHG-0249",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 132
+    },
+    {
+      "charge_date": "2026-02-19",
+      "charge_id": "CHG-0250",
+      "customer_id": "CUST-008",
+      "plan": "scale",
+      "units": 49
+    },
+    {
+      "charge_date": "2026-02-20",
+      "charge_id": "CHG-0251",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 130
+    },
+    {
+      "charge_date": "2026-02-20",
+      "charge_id": "CHG-0252",
+      "customer_id": "CUST-006",
+      "plan": "scale",
+      "units": 173
+    },
+    {
+      "charge_date": "2026-02-20",
+      "charge_id": "CHG-0253",
+      "customer_id": "CUST-002",
+      "plan": "starter",
+      "units": 80
+    },
+    {
+      "charge_date": "2026-02-20",
+      "charge_id": "CHG-0254",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 206
+    },
+    {
+      "charge_date": "2026-02-20",
+      "charge_id": "CHG-0255",
+      "customer_id": "CUST-003",
+      "plan": "starter",
+      "units": 371
+    },
+    {
+      "charge_date": "2026-02-21",
+      "charge_id": "CHG-0256",
+      "customer_id": "CUST-002",
+      "plan": "growth",
+      "units": 222
+    },
+    {
+      "charge_date": "2026-02-21",
+      "charge_id": "CHG-0257",
+      "customer_id": "CUST-006",
+      "plan": "growth",
+      "units": 287
+    },
+    {
+      "charge_date": "2026-02-21",
+      "charge_id": "CHG-0258",
+      "customer_id": "CUST-007",
+      "plan": "starter",
+      "units": 41
+    },
+    {
+      "charge_date": "2026-02-21",
+      "charge_id": "CHG-0259",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 225
+    },
+    {
+      "charge_date": "2026-02-21",
+      "charge_id": "CHG-0260",
+      "customer_id": "CUST-015",
+      "plan": "scale",
+      "units": 309
+    },
+    {
+      "charge_date": "2026-02-22",
+      "charge_id": "CHG-0261",
+      "customer_id": "CUST-001",
+      "plan": "growth",
+      "units": 304
+    },
+    {
+      "charge_date": "2026-02-22",
+      "charge_id": "CHG-0262",
+      "customer_id": "CUST-008",
+      "plan": "growth",
+      "units": 13
+    },
+    {
+      "charge_date": "2026-02-22",
+      "charge_id": "CHG-0263",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 395
+    },
+    {
+      "charge_date": "2026-02-22",
+      "charge_id": "CHG-0264",
+      "customer_id": "CUST-014",
+      "plan": "scale",
+      "units": 224
+    },
+    {
+      "charge_date": "2026-02-22",
+      "charge_id": "CHG-0265",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 386
+    },
+    {
+      "charge_date": "2026-02-23",
+      "charge_id": "CHG-0266",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 318
+    },
+    {
+      "charge_date": "2026-02-23",
+      "charge_id": "CHG-0267",
+      "customer_id": "CUST-008",
+      "plan": "growth",
+      "units": 122
+    },
+    {
+      "charge_date": "2026-02-23",
+      "charge_id": "CHG-0268",
+      "customer_id": "CUST-007",
+      "plan": "starter",
+      "units": 258
+    },
+    {
+      "charge_date": "2026-02-23",
+      "charge_id": "CHG-0269",
+      "customer_id": "CUST-007",
+      "plan": "scale",
+      "units": 182
+    },
+    {
+      "charge_date": "2026-02-23",
+      "charge_id": "CHG-0270",
+      "customer_id": "CUST-011",
+      "plan": "scale",
+      "units": 217
+    },
+    {
+      "charge_date": "2026-02-24",
+      "charge_id": "CHG-0271",
+      "customer_id": "CUST-003",
+      "plan": "starter",
+      "units": 249
+    },
+    {
+      "charge_date": "2026-02-24",
+      "charge_id": "CHG-0272",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 283
+    },
+    {
+      "charge_date": "2026-02-24",
+      "charge_id": "CHG-0273",
+      "customer_id": "CUST-015",
+      "plan": "scale",
+      "units": 211
+    },
+    {
+      "charge_date": "2026-02-24",
+      "charge_id": "CHG-0274",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 349
+    },
+    {
+      "charge_date": "2026-02-24",
+      "charge_id": "CHG-0275",
+      "customer_id": "CUST-002",
+      "plan": "growth",
+      "units": 339
+    },
+    {
+      "charge_date": "2026-02-25",
+      "charge_id": "CHG-0276",
+      "customer_id": "CUST-003",
+      "plan": "starter",
+      "units": 246
+    },
+    {
+      "charge_date": "2026-02-25",
+      "charge_id": "CHG-0277",
+      "customer_id": "CUST-001",
+      "plan": "growth",
+      "units": 143
+    },
+    {
+      "charge_date": "2026-02-25",
+      "charge_id": "CHG-0278",
+      "customer_id": "CUST-006",
+      "plan": "growth",
+      "units": 118
+    },
+    {
+      "charge_date": "2026-02-25",
+      "charge_id": "CHG-0279",
+      "customer_id": "CUST-006",
+      "plan": "growth",
+      "units": 182
+    },
+    {
+      "charge_date": "2026-02-25",
+      "charge_id": "CHG-0280",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 395
+    },
+    {
+      "charge_date": "2026-02-26",
+      "charge_id": "CHG-0281",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 51
+    },
+    {
+      "charge_date": "2026-02-26",
+      "charge_id": "CHG-0282",
+      "customer_id": "CUST-001",
+      "plan": "scale",
+      "units": 393
+    },
+    {
+      "charge_date": "2026-02-26",
+      "charge_id": "CHG-0283",
+      "customer_id": "CUST-001",
+      "plan": "starter",
+      "units": 189
+    },
+    {
+      "charge_date": "2026-02-26",
+      "charge_id": "CHG-0284",
+      "customer_id": "CUST-011",
+      "plan": "scale",
+      "units": 45
+    },
+    {
+      "charge_date": "2026-02-26",
+      "charge_id": "CHG-0285",
+      "customer_id": "CUST-001",
+      "plan": "starter",
+      "units": 396
+    },
+    {
+      "charge_date": "2026-02-27",
+      "charge_id": "CHG-0286",
+      "customer_id": "CUST-004",
+      "plan": "starter",
+      "units": 112
+    },
+    {
+      "charge_date": "2026-02-27",
+      "charge_id": "CHG-0287",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 88
+    },
+    {
+      "charge_date": "2026-02-27",
+      "charge_id": "CHG-0288",
+      "customer_id": "CUST-003",
+      "plan": "scale",
+      "units": 252
+    },
+    {
+      "charge_date": "2026-02-27",
+      "charge_id": "CHG-0289",
+      "customer_id": "CUST-002",
+      "plan": "starter",
+      "units": 298
+    },
+    {
+      "charge_date": "2026-02-27",
+      "charge_id": "CHG-0290",
+      "customer_id": "CUST-008",
+      "plan": "growth",
+      "units": 368
+    },
+    {
+      "charge_date": "2026-02-28",
+      "charge_id": "CHG-0291",
+      "customer_id": "CUST-013",
+      "plan": "starter",
+      "units": 198
+    },
+    {
+      "charge_date": "2026-02-28",
+      "charge_id": "CHG-0292",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 320
+    },
+    {
+      "charge_date": "2026-02-28",
+      "charge_id": "CHG-0293",
+      "customer_id": "CUST-012",
+      "plan": "starter",
+      "units": 68
+    },
+    {
+      "charge_date": "2026-02-28",
+      "charge_id": "CHG-0294",
+      "customer_id": "CUST-005",
+      "plan": "scale",
+      "units": 65
+    },
+    {
+      "charge_date": "2026-02-28",
+      "charge_id": "CHG-0295",
+      "customer_id": "CUST-001",
+      "plan": "scale",
+      "units": 169
+    },
+    {
+      "charge_date": "2026-03-01",
+      "charge_id": "CHG-0296",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 202
+    },
+    {
+      "charge_date": "2026-03-01",
+      "charge_id": "CHG-0297",
+      "customer_id": "CUST-012",
+      "plan": "starter",
+      "units": 111
+    },
+    {
+      "charge_date": "2026-03-01",
+      "charge_id": "CHG-0298",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 363
+    },
+    {
+      "charge_date": "2026-03-01",
+      "charge_id": "CHG-0299",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 62
+    },
+    {
+      "charge_date": "2026-03-01",
+      "charge_id": "CHG-0300",
+      "customer_id": "CUST-013",
+      "plan": "scale",
+      "units": 164
+    },
+    {
+      "charge_date": "2026-03-02",
+      "charge_id": "CHG-0301",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 71
+    },
+    {
+      "charge_date": "2026-03-02",
+      "charge_id": "CHG-0302",
+      "customer_id": "CUST-013",
+      "plan": "growth",
+      "units": 31
+    },
+    {
+      "charge_date": "2026-03-02",
+      "charge_id": "CHG-0303",
+      "customer_id": "CUST-009",
+      "plan": "scale",
+      "units": 229
+    },
+    {
+      "charge_date": "2026-03-02",
+      "charge_id": "CHG-0304",
+      "customer_id": "CUST-006",
+      "plan": "scale",
+      "units": 45
+    },
+    {
+      "charge_date": "2026-03-02",
+      "charge_id": "CHG-0305",
+      "customer_id": "CUST-011",
+      "plan": "starter",
+      "units": 184
+    },
+    {
+      "charge_date": "2026-03-03",
+      "charge_id": "CHG-0306",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 225
+    },
+    {
+      "charge_date": "2026-03-03",
+      "charge_id": "CHG-0307",
+      "customer_id": "CUST-002",
+      "plan": "growth",
+      "units": 231
+    },
+    {
+      "charge_date": "2026-03-03",
+      "charge_id": "CHG-0308",
+      "customer_id": "CUST-011",
+      "plan": "scale",
+      "units": 245
+    },
+    {
+      "charge_date": "2026-03-03",
+      "charge_id": "CHG-0309",
+      "customer_id": "CUST-003",
+      "plan": "starter",
+      "units": 232
+    },
+    {
+      "charge_date": "2026-03-03",
+      "charge_id": "CHG-0310",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 277
+    },
+    {
+      "charge_date": "2026-03-04",
+      "charge_id": "CHG-0311",
+      "customer_id": "CUST-005",
+      "plan": "scale",
+      "units": 325
+    },
+    {
+      "charge_date": "2026-03-04",
+      "charge_id": "CHG-0312",
+      "customer_id": "CUST-013",
+      "plan": "growth",
+      "units": 257
+    },
+    {
+      "charge_date": "2026-03-04",
+      "charge_id": "CHG-0313",
+      "customer_id": "CUST-007",
+      "plan": "scale",
+      "units": 384
+    },
+    {
+      "charge_date": "2026-03-04",
+      "charge_id": "CHG-0314",
+      "customer_id": "CUST-005",
+      "plan": "starter",
+      "units": 175
+    },
+    {
+      "charge_date": "2026-03-04",
+      "charge_id": "CHG-0315",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 54
+    },
+    {
+      "charge_date": "2026-03-05",
+      "charge_id": "CHG-0316",
+      "customer_id": "CUST-015",
+      "plan": "starter",
+      "units": 240
+    },
+    {
+      "charge_date": "2026-03-05",
+      "charge_id": "CHG-0317",
+      "customer_id": "CUST-013",
+      "plan": "scale",
+      "units": 247
+    },
+    {
+      "charge_date": "2026-03-05",
+      "charge_id": "CHG-0318",
+      "customer_id": "CUST-010",
+      "plan": "growth",
+      "units": 352
+    },
+    {
+      "charge_date": "2026-03-05",
+      "charge_id": "CHG-0319",
+      "customer_id": "CUST-006",
+      "plan": "growth",
+      "units": 24
+    },
+    {
+      "charge_date": "2026-03-05",
+      "charge_id": "CHG-0320",
+      "customer_id": "CUST-014",
+      "plan": "starter",
+      "units": 176
+    },
+    {
+      "charge_date": "2026-03-06",
+      "charge_id": "CHG-0321",
+      "customer_id": "CUST-008",
+      "plan": "growth",
+      "units": 118
+    },
+    {
+      "charge_date": "2026-03-06",
+      "charge_id": "CHG-0322",
+      "customer_id": "CUST-013",
+      "plan": "growth",
+      "units": 142
+    },
+    {
+      "charge_date": "2026-03-06",
+      "charge_id": "CHG-0323",
+      "customer_id": "CUST-005",
+      "plan": "scale",
+      "units": 315
+    },
+    {
+      "charge_date": "2026-03-06",
+      "charge_id": "CHG-0324",
+      "customer_id": "CUST-015",
+      "plan": "scale",
+      "units": 151
+    },
+    {
+      "charge_date": "2026-03-06",
+      "charge_id": "CHG-0325",
+      "customer_id": "CUST-001",
+      "plan": "starter",
+      "units": 274
+    },
+    {
+      "charge_date": "2026-03-07",
+      "charge_id": "CHG-0326",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 133
+    },
+    {
+      "charge_date": "2026-03-07",
+      "charge_id": "CHG-0327",
+      "customer_id": "CUST-007",
+      "plan": "scale",
+      "units": 260
+    },
+    {
+      "charge_date": "2026-03-07",
+      "charge_id": "CHG-0328",
+      "customer_id": "CUST-013",
+      "plan": "scale",
+      "units": 133
+    },
+    {
+      "charge_date": "2026-03-07",
+      "charge_id": "CHG-0329",
+      "customer_id": "CUST-008",
+      "plan": "scale",
+      "units": 340
+    },
+    {
+      "charge_date": "2026-03-07",
+      "charge_id": "CHG-0330",
+      "customer_id": "CUST-008",
+      "plan": "starter",
+      "units": 239
+    },
+    {
+      "charge_date": "2026-03-08",
+      "charge_id": "CHG-0331",
+      "customer_id": "CUST-002",
+      "plan": "starter",
+      "units": 160
+    },
+    {
+      "charge_date": "2026-03-08",
+      "charge_id": "CHG-0332",
+      "customer_id": "CUST-007",
+      "plan": "starter",
+      "units": 364
+    },
+    {
+      "charge_date": "2026-03-08",
+      "charge_id": "CHG-0333",
+      "customer_id": "CUST-005",
+      "plan": "scale",
+      "units": 349
+    },
+    {
+      "charge_date": "2026-03-08",
+      "charge_id": "CHG-0334",
+      "customer_id": "CUST-006",
+      "plan": "scale",
+      "units": 252
+    },
+    {
+      "charge_date": "2026-03-08",
+      "charge_id": "CHG-0335",
+      "customer_id": "CUST-009",
+      "plan": "growth",
+      "units": 186
+    },
+    {
+      "charge_date": "2026-03-09",
+      "charge_id": "CHG-0336",
+      "customer_id": "CUST-012",
+      "plan": "growth",
+      "units": 291
+    },
+    {
+      "charge_date": "2026-03-09",
+      "charge_id": "CHG-0337",
+      "customer_id": "CUST-006",
+      "plan": "growth",
+      "units": 369
+    },
+    {
+      "charge_date": "2026-03-09",
+      "charge_id": "CHG-0338",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 166
+    },
+    {
+      "charge_date": "2026-03-09",
+      "charge_id": "CHG-0339",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 71
+    },
+    {
+      "charge_date": "2026-03-09",
+      "charge_id": "CHG-0340",
+      "customer_id": "CUST-004",
+      "plan": "starter",
+      "units": 171
+    },
+    {
+      "charge_date": "2026-03-10",
+      "charge_id": "CHG-0341",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 284
+    },
+    {
+      "charge_date": "2026-03-10",
+      "charge_id": "CHG-0342",
+      "customer_id": "CUST-003",
+      "plan": "starter",
+      "units": 108
+    },
+    {
+      "charge_date": "2026-03-10",
+      "charge_id": "CHG-0343",
+      "customer_id": "CUST-012",
+      "plan": "growth",
+      "units": 257
+    },
+    {
+      "charge_date": "2026-03-10",
+      "charge_id": "CHG-0344",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 311
+    },
+    {
+      "charge_date": "2026-03-10",
+      "charge_id": "CHG-0345",
+      "customer_id": "CUST-010",
+      "plan": "starter",
+      "units": 154
+    },
+    {
+      "charge_date": "2026-03-11",
+      "charge_id": "CHG-0346",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 109
+    },
+    {
+      "charge_date": "2026-03-11",
+      "charge_id": "CHG-0347",
+      "customer_id": "CUST-004",
+      "plan": "starter",
+      "units": 194
+    },
+    {
+      "charge_date": "2026-03-11",
+      "charge_id": "CHG-0348",
+      "customer_id": "CUST-005",
+      "plan": "scale",
+      "units": 17
+    },
+    {
+      "charge_date": "2026-03-11",
+      "charge_id": "CHG-0349",
+      "customer_id": "CUST-009",
+      "plan": "growth",
+      "units": 74
+    },
+    {
+      "charge_date": "2026-03-11",
+      "charge_id": "CHG-0350",
+      "customer_id": "CUST-001",
+      "plan": "scale",
+      "units": 37
+    },
+    {
+      "charge_date": "2026-03-12",
+      "charge_id": "CHG-0351",
+      "customer_id": "CUST-005",
+      "plan": "starter",
+      "units": 367
+    },
+    {
+      "charge_date": "2026-03-12",
+      "charge_id": "CHG-0352",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 395
+    },
+    {
+      "charge_date": "2026-03-12",
+      "charge_id": "CHG-0353",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 16
+    },
+    {
+      "charge_date": "2026-03-12",
+      "charge_id": "CHG-0354",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 250
+    },
+    {
+      "charge_date": "2026-03-12",
+      "charge_id": "CHG-0355",
+      "customer_id": "CUST-008",
+      "plan": "starter",
+      "units": 184
+    },
+    {
+      "charge_date": "2026-03-13",
+      "charge_id": "CHG-0356",
+      "customer_id": "CUST-001",
+      "plan": "growth",
+      "units": 139
+    },
+    {
+      "charge_date": "2026-03-13",
+      "charge_id": "CHG-0357",
+      "customer_id": "CUST-002",
+      "plan": "growth",
+      "units": 43
+    },
+    {
+      "charge_date": "2026-03-13",
+      "charge_id": "CHG-0358",
+      "customer_id": "CUST-008",
+      "plan": "scale",
+      "units": 47
+    },
+    {
+      "charge_date": "2026-03-13",
+      "charge_id": "CHG-0359",
+      "customer_id": "CUST-011",
+      "plan": "starter",
+      "units": 361
+    },
+    {
+      "charge_date": "2026-03-13",
+      "charge_id": "CHG-0360",
+      "customer_id": "CUST-003",
+      "plan": "scale",
+      "units": 86
+    },
+    {
+      "charge_date": "2026-03-14",
+      "charge_id": "CHG-0361",
+      "customer_id": "CUST-005",
+      "plan": "starter",
+      "units": 53
+    },
+    {
+      "charge_date": "2026-03-14",
+      "charge_id": "CHG-0362",
+      "customer_id": "CUST-002",
+      "plan": "growth",
+      "units": 295
+    },
+    {
+      "charge_date": "2026-03-14",
+      "charge_id": "CHG-0363",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 315
+    },
+    {
+      "charge_date": "2026-03-14",
+      "charge_id": "CHG-0364",
+      "customer_id": "CUST-004",
+      "plan": "growth",
+      "units": 277
+    },
+    {
+      "charge_date": "2026-03-14",
+      "charge_id": "CHG-0365",
+      "customer_id": "CUST-008",
+      "plan": "growth",
+      "units": 236
+    },
+    {
+      "charge_date": "2026-03-15",
+      "charge_id": "CHG-0366",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 311
+    },
+    {
+      "charge_date": "2026-03-15",
+      "charge_id": "CHG-0367",
+      "customer_id": "CUST-005",
+      "plan": "scale",
+      "units": 301
+    },
+    {
+      "charge_date": "2026-03-15",
+      "charge_id": "CHG-0368",
+      "customer_id": "CUST-001",
+      "plan": "scale",
+      "units": 322
+    },
+    {
+      "charge_date": "2026-03-15",
+      "charge_id": "CHG-0369",
+      "customer_id": "CUST-002",
+      "plan": "starter",
+      "units": 400
+    },
+    {
+      "charge_date": "2026-03-15",
+      "charge_id": "CHG-0370",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 118
+    },
+    {
+      "charge_date": "2026-03-16",
+      "charge_id": "CHG-0371",
+      "customer_id": "CUST-011",
+      "plan": "starter",
+      "units": 51
+    },
+    {
+      "charge_date": "2026-03-16",
+      "charge_id": "CHG-0372",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 98
+    },
+    {
+      "charge_date": "2026-03-16",
+      "charge_id": "CHG-0373",
+      "customer_id": "CUST-002",
+      "plan": "starter",
+      "units": 90
+    },
+    {
+      "charge_date": "2026-03-16",
+      "charge_id": "CHG-0374",
+      "customer_id": "CUST-007",
+      "plan": "scale",
+      "units": 240
+    },
+    {
+      "charge_date": "2026-03-16",
+      "charge_id": "CHG-0375",
+      "customer_id": "CUST-010",
+      "plan": "growth",
+      "units": 250
+    },
+    {
+      "charge_date": "2026-03-17",
+      "charge_id": "CHG-0376",
+      "customer_id": "CUST-001",
+      "plan": "growth",
+      "units": 128
+    },
+    {
+      "charge_date": "2026-03-17",
+      "charge_id": "CHG-0377",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 154
+    },
+    {
+      "charge_date": "2026-03-17",
+      "charge_id": "CHG-0378",
+      "customer_id": "CUST-014",
+      "plan": "starter",
+      "units": 242
+    },
+    {
+      "charge_date": "2026-03-17",
+      "charge_id": "CHG-0379",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 129
+    },
+    {
+      "charge_date": "2026-03-17",
+      "charge_id": "CHG-0380",
+      "customer_id": "CUST-013",
+      "plan": "scale",
+      "units": 330
+    },
+    {
+      "charge_date": "2026-03-18",
+      "charge_id": "CHG-0381",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 111
+    },
+    {
+      "charge_date": "2026-03-18",
+      "charge_id": "CHG-0382",
+      "customer_id": "CUST-002",
+      "plan": "starter",
+      "units": 288
+    },
+    {
+      "charge_date": "2026-03-18",
+      "charge_id": "CHG-0383",
+      "customer_id": "CUST-011",
+      "plan": "growth",
+      "units": 86
+    },
+    {
+      "charge_date": "2026-03-18",
+      "charge_id": "CHG-0384",
+      "customer_id": "CUST-014",
+      "plan": "starter",
+      "units": 82
+    },
+    {
+      "charge_date": "2026-03-18",
+      "charge_id": "CHG-0385",
+      "customer_id": "CUST-001",
+      "plan": "growth",
+      "units": 94
+    },
+    {
+      "charge_date": "2026-03-19",
+      "charge_id": "CHG-0386",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 393
+    },
+    {
+      "charge_date": "2026-03-19",
+      "charge_id": "CHG-0387",
+      "customer_id": "CUST-015",
+      "plan": "growth",
+      "units": 157
+    },
+    {
+      "charge_date": "2026-03-19",
+      "charge_id": "CHG-0388",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 249
+    },
+    {
+      "charge_date": "2026-03-19",
+      "charge_id": "CHG-0389",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 368
+    },
+    {
+      "charge_date": "2026-03-19",
+      "charge_id": "CHG-0390",
+      "customer_id": "CUST-005",
+      "plan": "scale",
+      "units": 266
+    },
+    {
+      "charge_date": "2026-03-20",
+      "charge_id": "CHG-0391",
+      "customer_id": "CUST-008",
+      "plan": "starter",
+      "units": 234
+    },
+    {
+      "charge_date": "2026-03-20",
+      "charge_id": "CHG-0392",
+      "customer_id": "CUST-010",
+      "plan": "growth",
+      "units": 30
+    },
+    {
+      "charge_date": "2026-03-20",
+      "charge_id": "CHG-0393",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 175
+    },
+    {
+      "charge_date": "2026-03-20",
+      "charge_id": "CHG-0394",
+      "customer_id": "CUST-005",
+      "plan": "starter",
+      "units": 23
+    },
+    {
+      "charge_date": "2026-03-20",
+      "charge_id": "CHG-0395",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 355
+    },
+    {
+      "charge_date": "2026-03-21",
+      "charge_id": "CHG-0396",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 20
+    },
+    {
+      "charge_date": "2026-03-21",
+      "charge_id": "CHG-0397",
+      "customer_id": "CUST-014",
+      "plan": "scale",
+      "units": 147
+    },
+    {
+      "charge_date": "2026-03-21",
+      "charge_id": "CHG-0398",
+      "customer_id": "CUST-001",
+      "plan": "starter",
+      "units": 400
+    },
+    {
+      "charge_date": "2026-03-21",
+      "charge_id": "CHG-0399",
+      "customer_id": "CUST-008",
+      "plan": "scale",
+      "units": 275
+    },
+    {
+      "charge_date": "2026-03-21",
+      "charge_id": "CHG-0400",
+      "customer_id": "CUST-008",
+      "plan": "starter",
+      "units": 152
+    },
+    {
+      "charge_date": "2026-03-22",
+      "charge_id": "CHG-0401",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 233
+    },
+    {
+      "charge_date": "2026-03-22",
+      "charge_id": "CHG-0402",
+      "customer_id": "CUST-014",
+      "plan": "starter",
+      "units": 261
+    },
+    {
+      "charge_date": "2026-03-22",
+      "charge_id": "CHG-0403",
+      "customer_id": "CUST-008",
+      "plan": "growth",
+      "units": 188
+    },
+    {
+      "charge_date": "2026-03-22",
+      "charge_id": "CHG-0404",
+      "customer_id": "CUST-006",
+      "plan": "scale",
+      "units": 174
+    },
+    {
+      "charge_date": "2026-03-22",
+      "charge_id": "CHG-0405",
+      "customer_id": "CUST-002",
+      "plan": "growth",
+      "units": 92
+    },
+    {
+      "charge_date": "2026-03-23",
+      "charge_id": "CHG-0406",
+      "customer_id": "CUST-007",
+      "plan": "growth",
+      "units": 365
+    },
+    {
+      "charge_date": "2026-03-23",
+      "charge_id": "CHG-0407",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 349
+    },
+    {
+      "charge_date": "2026-03-23",
+      "charge_id": "CHG-0408",
+      "customer_id": "CUST-014",
+      "plan": "scale",
+      "units": 399
+    },
+    {
+      "charge_date": "2026-03-23",
+      "charge_id": "CHG-0409",
+      "customer_id": "CUST-001",
+      "plan": "starter",
+      "units": 242
+    },
+    {
+      "charge_date": "2026-03-23",
+      "charge_id": "CHG-0410",
+      "customer_id": "CUST-006",
+      "plan": "growth",
+      "units": 139
+    },
+    {
+      "charge_date": "2026-03-24",
+      "charge_id": "CHG-0411",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 216
+    },
+    {
+      "charge_date": "2026-03-24",
+      "charge_id": "CHG-0412",
+      "customer_id": "CUST-014",
+      "plan": "scale",
+      "units": 10
+    },
+    {
+      "charge_date": "2026-03-24",
+      "charge_id": "CHG-0413",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 287
+    },
+    {
+      "charge_date": "2026-03-24",
+      "charge_id": "CHG-0414",
+      "customer_id": "CUST-007",
+      "plan": "starter",
+      "units": 37
+    },
+    {
+      "charge_date": "2026-03-24",
+      "charge_id": "CHG-0415",
+      "customer_id": "CUST-009",
+      "plan": "scale",
+      "units": 195
+    },
+    {
+      "charge_date": "2026-03-25",
+      "charge_id": "CHG-0416",
+      "customer_id": "CUST-013",
+      "plan": "scale",
+      "units": 265
+    },
+    {
+      "charge_date": "2026-03-25",
+      "charge_id": "CHG-0417",
+      "customer_id": "CUST-008",
+      "plan": "starter",
+      "units": 399
+    },
+    {
+      "charge_date": "2026-03-25",
+      "charge_id": "CHG-0418",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 146
+    },
+    {
+      "charge_date": "2026-03-25",
+      "charge_id": "CHG-0419",
+      "customer_id": "CUST-003",
+      "plan": "growth",
+      "units": 157
+    },
+    {
+      "charge_date": "2026-03-25",
+      "charge_id": "CHG-0420",
+      "customer_id": "CUST-015",
+      "plan": "growth",
+      "units": 367
+    },
+    {
+      "charge_date": "2026-03-26",
+      "charge_id": "CHG-0421",
+      "customer_id": "CUST-002",
+      "plan": "scale",
+      "units": 24
+    },
+    {
+      "charge_date": "2026-03-26",
+      "charge_id": "CHG-0422",
+      "customer_id": "CUST-010",
+      "plan": "scale",
+      "units": 132
+    },
+    {
+      "charge_date": "2026-03-26",
+      "charge_id": "CHG-0423",
+      "customer_id": "CUST-003",
+      "plan": "scale",
+      "units": 169
+    },
+    {
+      "charge_date": "2026-03-26",
+      "charge_id": "CHG-0424",
+      "customer_id": "CUST-001",
+      "plan": "growth",
+      "units": 292
+    },
+    {
+      "charge_date": "2026-03-26",
+      "charge_id": "CHG-0425",
+      "customer_id": "CUST-002",
+      "plan": "starter",
+      "units": 125
+    },
+    {
+      "charge_date": "2026-03-27",
+      "charge_id": "CHG-0426",
+      "customer_id": "CUST-008",
+      "plan": "scale",
+      "units": 70
+    },
+    {
+      "charge_date": "2026-03-27",
+      "charge_id": "CHG-0427",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 88
+    },
+    {
+      "charge_date": "2026-03-27",
+      "charge_id": "CHG-0428",
+      "customer_id": "CUST-015",
+      "plan": "growth",
+      "units": 376
+    },
+    {
+      "charge_date": "2026-03-27",
+      "charge_id": "CHG-0429",
+      "customer_id": "CUST-009",
+      "plan": "growth",
+      "units": 371
+    },
+    {
+      "charge_date": "2026-03-27",
+      "charge_id": "CHG-0430",
+      "customer_id": "CUST-007",
+      "plan": "growth",
+      "units": 257
+    },
+    {
+      "charge_date": "2026-03-28",
+      "charge_id": "CHG-0431",
+      "customer_id": "CUST-004",
+      "plan": "scale",
+      "units": 243
+    },
+    {
+      "charge_date": "2026-03-28",
+      "charge_id": "CHG-0432",
+      "customer_id": "CUST-003",
+      "plan": "starter",
+      "units": 206
+    },
+    {
+      "charge_date": "2026-03-28",
+      "charge_id": "CHG-0433",
+      "customer_id": "CUST-015",
+      "plan": "scale",
+      "units": 316
+    },
+    {
+      "charge_date": "2026-03-28",
+      "charge_id": "CHG-0434",
+      "customer_id": "CUST-012",
+      "plan": "starter",
+      "units": 79
+    },
+    {
+      "charge_date": "2026-03-28",
+      "charge_id": "CHG-0435",
+      "customer_id": "CUST-005",
+      "plan": "growth",
+      "units": 222
+    },
+    {
+      "charge_date": "2026-03-29",
+      "charge_id": "CHG-0436",
+      "customer_id": "CUST-015",
+      "plan": "growth",
+      "units": 269
+    },
+    {
+      "charge_date": "2026-03-29",
+      "charge_id": "CHG-0437",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 11
+    },
+    {
+      "charge_date": "2026-03-29",
+      "charge_id": "CHG-0438",
+      "customer_id": "CUST-012",
+      "plan": "scale",
+      "units": 162
+    },
+    {
+      "charge_date": "2026-03-29",
+      "charge_id": "CHG-0439",
+      "customer_id": "CUST-010",
+      "plan": "growth",
+      "units": 347
+    },
+    {
+      "charge_date": "2026-03-29",
+      "charge_id": "CHG-0440",
+      "customer_id": "CUST-014",
+      "plan": "growth",
+      "units": 86
+    },
+    {
+      "charge_date": "2026-03-30",
+      "charge_id": "CHG-0441",
+      "customer_id": "CUST-009",
+      "plan": "growth",
+      "units": 257
+    },
+    {
+      "charge_date": "2026-03-30",
+      "charge_id": "CHG-0442",
+      "customer_id": "CUST-006",
+      "plan": "scale",
+      "units": 292
+    },
+    {
+      "charge_date": "2026-03-30",
+      "charge_id": "CHG-0443",
+      "customer_id": "CUST-007",
+      "plan": "growth",
+      "units": 243
+    },
+    {
+      "charge_date": "2026-03-30",
+      "charge_id": "CHG-0444",
+      "customer_id": "CUST-014",
+      "plan": "scale",
+      "units": 106
+    },
+    {
+      "charge_date": "2026-03-30",
+      "charge_id": "CHG-0445",
+      "customer_id": "CUST-004",
+      "plan": "growth",
+      "units": 302
+    },
+    {
+      "charge_date": "2026-03-31",
+      "charge_id": "CHG-0446",
+      "customer_id": "CUST-004",
+      "plan": "starter",
+      "units": 220
+    },
+    {
+      "charge_date": "2026-03-31",
+      "charge_id": "CHG-0447",
+      "customer_id": "CUST-006",
+      "plan": "growth",
+      "units": 391
+    },
+    {
+      "charge_date": "2026-03-31",
+      "charge_id": "CHG-0448",
+      "customer_id": "CUST-012",
+      "plan": "growth",
+      "units": 205
+    },
+    {
+      "charge_date": "2026-03-31",
+      "charge_id": "CHG-0449",
+      "customer_id": "CUST-011",
+      "plan": "starter",
+      "units": 343
+    },
+    {
+      "charge_date": "2026-03-31",
+      "charge_id": "CHG-0450",
+      "customer_id": "CUST-008",
+      "plan": "starter",
+      "units": 28
+    }
+  ],
+  "meta": {
+    "clean": false,
+    "dataset": "synthetic usage-billing bundle (fictional company)",
+    "days": 90,
+    "planted": {
+      "DUPLICATE": 8,
+      "FEE_VERSION_BUG": 12,
+      "LATE": 5,
+      "MISSING": 6,
+      "ROUNDING_BOUNDARY": 3
+    },
+    "seed": 42,
+    "sla_days": 3
+  }
+}
